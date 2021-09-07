@@ -1,0 +1,1814 @@
+[
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 9,
+    "comparative": 1.5,
+    "calculation": [
+      {
+        "love": 3
+      },
+      {
+        "win": 4
+      },
+      {
+        "hope": 2
+      }
+    ],
+    "tokens": [
+      "hope",
+      "i",
+      "win",
+      "love",
+      "your",
+      "videos"
+    ],
+    "words": [
+      "love",
+      "win",
+      "hope"
+    ],
+    "positive": [
+      "love",
+      "win",
+      "hope"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.3076923076923077,
+    "calculation": [
+      {
+        "😎": 2
+      },
+      {
+        "gold": 2
+      }
+    ],
+    "tokens": [
+      "who",
+      "needs",
+      "gold",
+      "and",
+      "silver",
+      "when",
+      "you",
+      "can",
+      "have",
+      "bitcoin",
+      "and",
+      "eth",
+      "😎"
+    ],
+    "words": [
+      "😎",
+      "gold"
+    ],
+    "positive": [
+      "😎",
+      "gold"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "this",
+      "what's",
+      "happening",
+      "first"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.4,
+    "calculation": [
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "would",
+      "still",
+      "like",
+      "a",
+      "response"
+    ],
+    "words": [
+      "like"
+    ],
+    "positive": [
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "was",
+      "able",
+      "to",
+      "recover",
+      "my",
+      "locked",
+      "account",
+      "with",
+      "the",
+      "help",
+      "of"
+    ],
+    "words": [
+      "help"
+    ],
+    "positive": [
+      "help"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.1111111111111111,
+    "calculation": [
+      {
+        "fuck": -4
+      },
+      {
+        "lol": 3
+      }
+    ],
+    "tokens": [
+      "lol",
+      "i",
+      "dont",
+      "give",
+      "a",
+      "fuck",
+      "with",
+      "shitcoins",
+      "😹"
+    ],
+    "words": [
+      "fuck",
+      "lol"
+    ],
+    "positive": [
+      "lol"
+    ],
+    "negative": [
+      "fuck"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 1,
+    "calculation": [
+      {
+        "💯": 5
+      }
+    ],
+    "tokens": [
+      "the",
+      "standard",
+      "is",
+      "near",
+      "💯"
+    ],
+    "words": [
+      "💯"
+    ],
+    "positive": [
+      "💯"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 1,
+    "calculation": [
+      {
+        "win": 4
+      }
+    ],
+    "tokens": [
+      "let's",
+      "win",
+      "this",
+      "thing"
+    ],
+    "words": [
+      "win"
+    ],
+    "positive": [
+      "win"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "recommend",
+      "you",
+      "only",
+      "use",
+      "coinbase",
+      "pro",
+      "as",
+      "fees",
+      "are",
+      "significantly",
+      "lower"
+    ],
+    "words": [
+      "recommend"
+    ],
+    "positive": [
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.375,
+    "calculation": [
+      {
+        "🚀": 3
+      }
+    ],
+    "tokens": [
+      "intellectually",
+      "we",
+      "the",
+      "future",
+      "is",
+      "under",
+      "control",
+      "🚀"
+    ],
+    "words": [
+      "🚀"
+    ],
+    "positive": [
+      "🚀"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.42857142857142855,
+    "calculation": [
+      {
+        "👀": 1
+      },
+      {
+        "join": 1
+      },
+      {
+        "🇸": 2
+      },
+      {
+        "🇺": 2
+      }
+    ],
+    "tokens": [
+      "out",
+      "here",
+      "with",
+      "at",
+      "🇺",
+      "🇸",
+      "peep",
+      "our",
+      "ig",
+      "to",
+      "join",
+      "the",
+      "party",
+      "👀"
+    ],
+    "words": [
+      "👀",
+      "join",
+      "🇸",
+      "🇺"
+    ],
+    "positive": [
+      "👀",
+      "join",
+      "🇸",
+      "🇺"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.75,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "promise": 1
+      }
+    ],
+    "tokens": [
+      "i",
+      "promise",
+      "to",
+      "help"
+    ],
+    "words": [
+      "help",
+      "promise"
+    ],
+    "positive": [
+      "help",
+      "promise"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.23529411764705882,
+    "calculation": [
+      {
+        "effective": 2
+      },
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "like",
+      "to",
+      "think",
+      "of",
+      "ftt",
+      "as",
+      "1",
+      "3",
+      "effective",
+      "equity",
+      "ftx",
+      "buys",
+      "and",
+      "burns",
+      "1",
+      "3…"
+    ],
+    "words": [
+      "effective",
+      "like"
+    ],
+    "positive": [
+      "effective",
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "future",
+      "i",
+      "love",
+      "crypto"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 10,
+    "comparative": 1.4285714285714286,
+    "calculation": [
+      {
+        "🌌": 2
+      },
+      {
+        "💙": 3
+      },
+      {
+        "♥": 3
+      },
+      {
+        "favorite": 2
+      }
+    ],
+    "tokens": [
+      "my",
+      "favorite",
+      "project",
+      "♥",
+      "️",
+      "💙",
+      "🌌"
+    ],
+    "words": [
+      "🌌",
+      "💙",
+      "♥",
+      "favorite"
+    ],
+    "positive": [
+      "🌌",
+      "💙",
+      "♥",
+      "favorite"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 2,
+    "calculation": [
+      {
+        "awesome": 4
+      }
+    ],
+    "tokens": [
+      "that's",
+      "awesome"
+    ],
+    "words": [
+      "awesome"
+    ],
+    "positive": [
+      "awesome"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "thought",
+      "they",
+      "only",
+      "like",
+      "memecoins",
+      "we’ll",
+      "see"
+    ],
+    "words": [
+      "like"
+    ],
+    "positive": [
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -1,
+    "calculation": [
+      {
+        "bad": -3
+      }
+    ],
+    "tokens": [
+      "bad",
+      "job",
+      "guys"
+    ],
+    "words": [
+      "bad"
+    ],
+    "positive": [],
+    "negative": [
+      "bad"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "this",
+      "what's",
+      "happening",
+      "first"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.17647058823529413,
+    "calculation": [
+      {
+        "lost": -3
+      }
+    ],
+    "tokens": [
+      "can",
+      "we",
+      "still",
+      "store",
+      "on",
+      "or",
+      "if",
+      "we",
+      "send",
+      "any",
+      "it",
+      "can",
+      "be",
+      "lost",
+      "or",
+      "will",
+      "safely…"
+    ],
+    "words": [
+      "lost"
+    ],
+    "positive": [],
+    "negative": [
+      "lost"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "loves": 3
+      }
+    ],
+    "tokens": [
+      "loves",
+      "suprises",
+      "bro",
+      "they",
+      "like",
+      "it",
+      "when",
+      "nobody",
+      "expect",
+      "it"
+    ],
+    "words": [
+      "like",
+      "loves"
+    ],
+    "positive": [
+      "like",
+      "loves"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "worst": -3
+      },
+      {
+        "won": 3
+      },
+      {
+        "chance": 2
+      }
+    ],
+    "tokens": [
+      "1",
+      "22000",
+      "chance",
+      "i",
+      "have",
+      "won",
+      "with",
+      "worst",
+      "odds"
+    ],
+    "words": [
+      "worst",
+      "won",
+      "chance"
+    ],
+    "positive": [
+      "won",
+      "chance"
+    ],
+    "negative": [
+      "worst"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.30434782608695654,
+    "calculation": [
+      {
+        "donation": 2
+      },
+      {
+        "top": 2
+      },
+      {
+        "join": 1
+      },
+      {
+        "opportunity": 2
+      }
+    ],
+    "tokens": [
+      "did",
+      "you",
+      "know",
+      "we",
+      "have",
+      "an",
+      "opportunity",
+      "to",
+      "join",
+      "a",
+      "top",
+      "5",
+      "global",
+      "exchange",
+      "we",
+      "are",
+      "currently",
+      "raising",
+      "funds",
+      "through",
+      "our",
+      "donation",
+      "w…"
+    ],
+    "words": [
+      "donation",
+      "top",
+      "join",
+      "opportunity"
+    ],
+    "positive": [
+      "donation",
+      "top",
+      "join",
+      "opportunity"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.5714285714285714,
+    "calculation": [
+      {
+        "👊": 1
+      },
+      {
+        "want": 1
+      },
+      {
+        "✅": 2
+      }
+    ],
+    "tokens": [
+      "💥",
+      "💥💥💥day",
+      "84💥💥💥💥",
+      "✅",
+      "want",
+      "listing",
+      "👊"
+    ],
+    "words": [
+      "👊",
+      "want",
+      "✅"
+    ],
+    "positive": [
+      "👊",
+      "want",
+      "✅"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.058823529411764705,
+    "calculation": [
+      {
+        "want": -1
+      }
+    ],
+    "tokens": [
+      "why",
+      "doesn't",
+      "have",
+      "limit",
+      "orders",
+      "i",
+      "don't",
+      "want",
+      "to",
+      "use",
+      "pro",
+      "just",
+      "to",
+      "get",
+      "a",
+      "basic",
+      "feature"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [],
+    "negative": [
+      "want"
+    ]
+  },
+  {
+    "score": 6,
+    "comparative": 1.5,
+    "calculation": [
+      {
+        "luck": 3
+      },
+      {
+        "good": 3
+      }
+    ],
+    "tokens": [
+      "good",
+      "luck",
+      "to",
+      "all"
+    ],
+    "words": [
+      "luck",
+      "good"
+    ],
+    "positive": [
+      "luck",
+      "good"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "dream": 1
+      },
+      {
+        "great": 3
+      }
+    ],
+    "tokens": [
+      "uuuf",
+      "that",
+      "would",
+      "be",
+      "a",
+      "great",
+      "investment",
+      "+gonna",
+      "buy",
+      "my",
+      "dream",
+      "car"
+    ],
+    "words": [
+      "dream",
+      "great"
+    ],
+    "positive": [
+      "dream",
+      "great"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "was",
+      "able",
+      "to",
+      "recover",
+      "about",
+      "80",
+      "of",
+      "my",
+      "funds",
+      "through",
+      "the",
+      "help",
+      "of…"
+    ],
+    "words": [
+      "help"
+    ],
+    "positive": [
+      "help"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "important": 2
+      }
+    ],
+    "tokens": [
+      "a",
+      "little",
+      "more",
+      "about",
+      "those",
+      "rules",
+      "…one",
+      "important",
+      "requirement",
+      "is",
+      "that",
+      "you",
+      "keep",
+      "your",
+      "twitter",
+      "profile",
+      "public",
+      "and",
+      "continue",
+      "follow…"
+    ],
+    "words": [
+      "important"
+    ],
+    "positive": [
+      "important"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.5714285714285714,
+    "calculation": [
+      {
+        "👊": 1
+      },
+      {
+        "want": 1
+      },
+      {
+        "✅": 2
+      }
+    ],
+    "tokens": [
+      "💥",
+      "💥💥💥day",
+      "84💥💥💥💥",
+      "✅",
+      "want",
+      "listing",
+      "👊"
+    ],
+    "words": [
+      "👊",
+      "want",
+      "✅"
+    ],
+    "positive": [
+      "👊",
+      "want",
+      "✅"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "this",
+      "what's",
+      "happening",
+      "first"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.045454545454545456,
+    "calculation": [
+      {
+        "refuses": -2
+      },
+      {
+        "great": 3
+      },
+      {
+        "disappointing": -2
+      }
+    ],
+    "tokens": [
+      "it",
+      "is",
+      "disappointing",
+      "to",
+      "great",
+      "grass",
+      "roots",
+      "people",
+      "from",
+      "all",
+      "over",
+      "america",
+      "that",
+      "refuses",
+      "to",
+      "list",
+      "one",
+      "of",
+      "if",
+      "not",
+      "the",
+      "mos…"
+    ],
+    "words": [
+      "refuses",
+      "great",
+      "disappointing"
+    ],
+    "positive": [
+      "great"
+    ],
+    "negative": [
+      "refuses",
+      "disappointing"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "great": 3
+      }
+    ],
+    "tokens": [
+      "great",
+      "interview",
+      "by",
+      "co-founder",
+      "on",
+      "american",
+      "education",
+      "really",
+      "teaches",
+      "structured",
+      "thinking",
+      "…"
+    ],
+    "words": [
+      "great"
+    ],
+    "positive": [
+      "great"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.375,
+    "calculation": [
+      {
+        "chance": 2
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "gotta",
+      "atleast",
+      "try",
+      "if",
+      "i",
+      "want",
+      "a",
+      "chance"
+    ],
+    "words": [
+      "chance",
+      "want"
+    ],
+    "positive": [
+      "chance",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "😂": 1
+      }
+    ],
+    "tokens": [
+      "they",
+      "begging",
+      "😂",
+      "but",
+      "won’t",
+      "listen"
+    ],
+    "words": [
+      "😂"
+    ],
+    "positive": [
+      "😂"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.0625,
+    "calculation": [
+      {
+        "pay": -1
+      },
+      {
+        "chance": 2
+      }
+    ],
+    "tokens": [
+      "any",
+      "chance",
+      "of",
+      "yous",
+      "2",
+      "listing",
+      "so",
+      "we",
+      "don't",
+      "have",
+      "to",
+      "pay",
+      "fcuking",
+      "£100",
+      "gas",
+      "fe…"
+    ],
+    "words": [
+      "pay",
+      "chance"
+    ],
+    "positive": [
+      "chance"
+    ],
+    "negative": [
+      "pay"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.625,
+    "calculation": [
+      {
+        "🇧": 1
+      },
+      {
+        "🇬": 1
+      },
+      {
+        "loved": 3
+      }
+    ],
+    "tokens": [
+      "loved",
+      "the",
+      "last",
+      "vid",
+      "lets",
+      "goooo",
+      "🇬",
+      "🇧"
+    ],
+    "words": [
+      "🇧",
+      "🇬",
+      "loved"
+    ],
+    "positive": [
+      "🇧",
+      "🇬",
+      "loved"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "add",
+      "dgb",
+      "please"
+    ],
+    "words": [
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "problem": -2
+      },
+      {
+        "solved": 1
+      },
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "dm",
+      "asap",
+      "he",
+      "help",
+      "me",
+      "solved",
+      "my",
+      "problem",
+      "when",
+      "i",
+      "have",
+      "similar…"
+    ],
+    "words": [
+      "problem",
+      "solved",
+      "help"
+    ],
+    "positive": [
+      "solved",
+      "help"
+    ],
+    "negative": [
+      "problem"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "this",
+      "what's",
+      "happening",
+      "first"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.5714285714285714,
+    "calculation": [
+      {
+        "👊": 1
+      },
+      {
+        "want": 1
+      },
+      {
+        "✅": 2
+      }
+    ],
+    "tokens": [
+      "💥",
+      "💥💥💥day",
+      "84💥💥💥💥",
+      "✅",
+      "want",
+      "listing",
+      "👊"
+    ],
+    "words": [
+      "👊",
+      "want",
+      "✅"
+    ],
+    "positive": [
+      "👊",
+      "want",
+      "✅"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "🙏": 2
+      }
+    ],
+    "tokens": [
+      "tweeting",
+      "at",
+      "till",
+      "they",
+      "list",
+      "🤝",
+      "day",
+      "53",
+      "🙏"
+    ],
+    "words": [
+      "🙏"
+    ],
+    "positive": [
+      "🙏"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 9,
+    "comparative": 1.5,
+    "calculation": [
+      {
+        "😍": 3
+      },
+      {
+        "win": 4
+      },
+      {
+        "hope": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "hope",
+      "i",
+      "win",
+      "this",
+      "😍"
+    ],
+    "words": [
+      "😍",
+      "win",
+      "hope"
+    ],
+    "positive": [
+      "😍",
+      "win",
+      "hope"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "retweet",
+      "if",
+      "you",
+      "want",
+      "listed",
+      "on",
+      "and"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "this",
+      "what's",
+      "happening",
+      "first"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.3333333333333333,
+    "calculation": [
+      {
+        "crazy": -2
+      }
+    ],
+    "tokens": [
+      "it",
+      "is",
+      "crazy",
+      "that",
+      "doesn't",
+      "have"
+    ],
+    "words": [
+      "crazy"
+    ],
+    "positive": [],
+    "negative": [
+      "crazy"
+    ]
+  }
+]

@@ -1,0 +1,1698 @@
+[
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "haha": 3
+      }
+    ],
+    "tokens": [
+      "i’m",
+      "not",
+      "always",
+      "late",
+      "haha"
+    ],
+    "words": [
+      "haha"
+    ],
+    "positive": [
+      "haha"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.5833333333333334,
+    "calculation": [
+      {
+        "save": 2
+      },
+      {
+        "❤": 3
+      },
+      {
+        "🌈": 2
+      }
+    ],
+    "tokens": [
+      "🏳",
+      "️‍",
+      "🌈",
+      "🏳️‍🌈",
+      "❤",
+      "️please",
+      "beggin",
+      "save",
+      "for",
+      "that",
+      "tentacrucially",
+      "importa…"
+    ],
+    "words": [
+      "save",
+      "❤",
+      "🌈"
+    ],
+    "positive": [
+      "save",
+      "❤",
+      "🌈"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "positive": 2
+      }
+    ],
+    "tokens": [
+      "is",
+      "neuralink",
+      "a",
+      "positive",
+      "trajectory",
+      "for",
+      "humanity"
+    ],
+    "words": [
+      "positive"
+    ],
+    "positive": [
+      "positive"
+    ],
+    "negative": []
+  },
+  {
+    "score": 8,
+    "comparative": 0.38095238095238093,
+    "calculation": [
+      {
+        "hope": 2
+      },
+      {
+        "big": 1
+      },
+      {
+        "hope": 2
+      },
+      {
+        "good": 3
+      }
+    ],
+    "tokens": [
+      "very",
+      "good",
+      "project",
+      "sir",
+      "i",
+      "hope",
+      "this",
+      "project",
+      "will",
+      "grow",
+      "and",
+      "become",
+      "a",
+      "big",
+      "project",
+      "in",
+      "the",
+      "future",
+      "i",
+      "hope",
+      "s…"
+    ],
+    "words": [
+      "hope",
+      "big",
+      "hope",
+      "good"
+    ],
+    "positive": [
+      "hope",
+      "big",
+      "hope",
+      "good"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.42857142857142855,
+    "calculation": [
+      {
+        "🚀": 3
+      }
+    ],
+    "tokens": [
+      "and",
+      "collab",
+      "to",
+      "changedefi",
+      "forever",
+      "🚀",
+      "🚀🚀"
+    ],
+    "words": [
+      "🚀"
+    ],
+    "positive": [
+      "🚀"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.5714285714285714,
+    "calculation": [
+      {
+        "🚀": 3
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "hey",
+      "elon",
+      "we",
+      "want",
+      "to",
+      "🤝",
+      "🚀"
+    ],
+    "words": [
+      "🚀",
+      "want"
+    ],
+    "positive": [
+      "🚀",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.09090909090909091,
+    "calculation": [
+      {
+        "worth": 2
+      },
+      {
+        "wrong": -2
+      },
+      {
+        "true": 2
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "true",
+      "was",
+      "wrong",
+      "in",
+      "2015",
+      "when",
+      "he",
+      "said",
+      "tesla",
+      "could",
+      "be",
+      "worth",
+      "billion",
+      "in",
+      "10",
+      "years",
+      "it",
+      "turns",
+      "out",
+      "they",
+      "o…"
+    ],
+    "words": [
+      "worth",
+      "wrong",
+      "true"
+    ],
+    "positive": [
+      "worth",
+      "true"
+    ],
+    "negative": [
+      "wrong"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.18181818181818182,
+    "calculation": [
+      {
+        "fuck": -4
+      },
+      {
+        "support": 2
+      }
+    ],
+    "tokens": [
+      "isn't",
+      "it",
+      "time",
+      "for",
+      "dogecoin",
+      "either",
+      "support",
+      "now",
+      "or",
+      "fuck",
+      "off"
+    ],
+    "words": [
+      "fuck",
+      "support"
+    ],
+    "positive": [
+      "support"
+    ],
+    "negative": [
+      "fuck"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.2916666666666667,
+    "calculation": [
+      {
+        "alive": 1
+      },
+      {
+        "😍": 3
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "love",
+      "seeing",
+      "more",
+      "cars",
+      "on",
+      "the",
+      "roads",
+      "these",
+      "days",
+      "😍",
+      "pulling",
+      "up",
+      "next",
+      "to",
+      "2",
+      "model",
+      "ys…",
+      "the",
+      "simulator",
+      "is",
+      "alive",
+      "and",
+      "well",
+      "…"
+    ],
+    "words": [
+      "alive",
+      "😍",
+      "love"
+    ],
+    "positive": [
+      "alive",
+      "😍",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "haha": 3
+      }
+    ],
+    "tokens": [
+      "i’m",
+      "not",
+      "always",
+      "late",
+      "haha"
+    ],
+    "words": [
+      "haha"
+    ],
+    "positive": [
+      "haha"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "better": 2
+      }
+    ],
+    "tokens": [
+      "token",
+      "eco",
+      "living",
+      "for",
+      "a",
+      "better",
+      "earth"
+    ],
+    "words": [
+      "better"
+    ],
+    "positive": [
+      "better"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "help",
+      "us",
+      "build",
+      "the",
+      "first",
+      "universal",
+      "basic",
+      "income"
+    ],
+    "words": [
+      "help"
+    ],
+    "positive": [
+      "help"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "like",
+      "i",
+      "said",
+      "on",
+      "some",
+      "other",
+      "b…"
+    ],
+    "words": [
+      "like"
+    ],
+    "positive": [
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "grateful": 3
+      },
+      {
+        "big": 1
+      }
+    ],
+    "tokens": [
+      "big",
+      "things",
+      "are",
+      "happening",
+      "in",
+      "texas",
+      "and",
+      "beyond",
+      "with",
+      "and",
+      "grateful",
+      "to",
+      "for",
+      "bringing",
+      "humanity",
+      "int…"
+    ],
+    "words": [
+      "grateful",
+      "big"
+    ],
+    "positive": [
+      "grateful",
+      "big"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 3,
+    "calculation": [
+      {
+        "impressive": 3
+      }
+    ],
+    "tokens": [
+      "impressive"
+    ],
+    "words": [
+      "impressive"
+    ],
+    "positive": [
+      "impressive"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.11764705882352941,
+    "calculation": [
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "how",
+      "long",
+      "before",
+      "his",
+      "satellittes",
+      "cover",
+      "the",
+      "entire",
+      "globe",
+      "it’s",
+      "a",
+      "little",
+      "like",
+      "the",
+      "countdown",
+      "to",
+      "s…"
+    ],
+    "words": [
+      "like"
+    ],
+    "positive": [
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.4666666666666667,
+    "calculation": [
+      {
+        "🚀": 3
+      },
+      {
+        "amazing": 4
+      }
+    ],
+    "tokens": [
+      "here’s",
+      "the",
+      "launch",
+      "tower",
+      "at",
+      "starbase",
+      "right",
+      "now",
+      "what",
+      "an",
+      "amazing",
+      "place",
+      "🤯",
+      "🤯🤯",
+      "🚀"
+    ],
+    "words": [
+      "🚀",
+      "amazing"
+    ],
+    "positive": [
+      "🚀",
+      "amazing"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05555555555555555,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "2",
+      "pm",
+      "utc",
+      "today",
+      "tron’s",
+      "founder",
+      "will",
+      "speak",
+      "with",
+      "mother",
+      "of",
+      "want",
+      "to",
+      "know",
+      "their",
+      "views",
+      "on",
+      "a…"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "alive": 1
+      },
+      {
+        "hard": -1
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "say",
+      "what",
+      "you",
+      "want",
+      "about",
+      "but",
+      "between",
+      "and",
+      "it's",
+      "hard",
+      "for",
+      "me",
+      "to",
+      "think",
+      "of",
+      "another",
+      "person",
+      "alive",
+      "today",
+      "that…"
+    ],
+    "words": [
+      "alive",
+      "hard",
+      "want"
+    ],
+    "positive": [
+      "alive",
+      "want"
+    ],
+    "negative": [
+      "hard"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "cute": 2
+      }
+    ],
+    "tokens": [
+      "they",
+      "look",
+      "as",
+      "cute",
+      "as",
+      "my",
+      "seal",
+      "on…"
+    ],
+    "words": [
+      "cute"
+    ],
+    "positive": [
+      "cute"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "haha": 3
+      }
+    ],
+    "tokens": [
+      "i’m",
+      "not",
+      "always",
+      "late",
+      "haha"
+    ],
+    "words": [
+      "haha"
+    ],
+    "positive": [
+      "haha"
+    ],
+    "negative": []
+  },
+  {
+    "score": 12,
+    "comparative": 0.5217391304347826,
+    "calculation": [
+      {
+        "fortune": 2
+      },
+      {
+        "luck": 3
+      },
+      {
+        "good": 3
+      },
+      {
+        "attract": 1
+      },
+      {
+        "lucky": 3
+      }
+    ],
+    "tokens": [
+      "check",
+      "out",
+      "this",
+      "unique",
+      "nft",
+      "art",
+      "where",
+      "many",
+      "people",
+      "believe",
+      "that",
+      "lucky",
+      "cat",
+      "will",
+      "attract",
+      "good",
+      "luck",
+      "and",
+      "fortune",
+      "for",
+      "its",
+      "owner",
+      "htt…"
+    ],
+    "words": [
+      "fortune",
+      "luck",
+      "good",
+      "attract",
+      "lucky"
+    ],
+    "positive": [
+      "fortune",
+      "luck",
+      "good",
+      "attract",
+      "lucky"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "haha": 3
+      }
+    ],
+    "tokens": [
+      "i’m",
+      "not",
+      "always",
+      "late",
+      "haha"
+    ],
+    "words": [
+      "haha"
+    ],
+    "positive": [
+      "haha"
+    ],
+    "negative": []
+  },
+  {
+    "score": 12,
+    "comparative": 0.5454545454545454,
+    "calculation": [
+      {
+        "fortune": 2
+      },
+      {
+        "luck": 3
+      },
+      {
+        "good": 3
+      },
+      {
+        "attract": 1
+      },
+      {
+        "lucky": 3
+      }
+    ],
+    "tokens": [
+      "check",
+      "out",
+      "this",
+      "unique",
+      "nft",
+      "art",
+      "where",
+      "many",
+      "people",
+      "believe",
+      "that",
+      "lucky",
+      "cat",
+      "will",
+      "attract",
+      "good",
+      "luck",
+      "and",
+      "fortune",
+      "for",
+      "its",
+      "o…"
+    ],
+    "words": [
+      "fortune",
+      "luck",
+      "good",
+      "attract",
+      "lucky"
+    ],
+    "positive": [
+      "fortune",
+      "luck",
+      "good",
+      "attract",
+      "lucky"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.09090909090909091,
+    "calculation": [
+      {
+        "worth": 2
+      },
+      {
+        "wrong": -2
+      },
+      {
+        "true": 2
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "true",
+      "was",
+      "wrong",
+      "in",
+      "2015",
+      "when",
+      "he",
+      "said",
+      "tesla",
+      "could",
+      "be",
+      "worth",
+      "billion",
+      "in",
+      "10",
+      "years",
+      "it",
+      "turns",
+      "out",
+      "they",
+      "o…"
+    ],
+    "words": [
+      "worth",
+      "wrong",
+      "true"
+    ],
+    "positive": [
+      "worth",
+      "true"
+    ],
+    "negative": [
+      "wrong"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.2222222222222222,
+    "calculation": [
+      {
+        "friend": 1
+      },
+      {
+        "no": -1
+      },
+      {
+        "no": -1
+      },
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "no",
+      "no",
+      "no",
+      "my",
+      "friend",
+      "shib",
+      "go",
+      "to",
+      "10"
+    ],
+    "words": [
+      "friend",
+      "no",
+      "no",
+      "no"
+    ],
+    "positive": [
+      "friend"
+    ],
+    "negative": [
+      "no",
+      "no",
+      "no"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 1,
+    "calculation": [
+      {
+        "worth": 2
+      }
+    ],
+    "tokens": [
+      "worth",
+      "it"
+    ],
+    "words": [
+      "worth"
+    ],
+    "positive": [
+      "worth"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -2,
+    "calculation": [
+      {
+        "stupid": -2
+      }
+    ],
+    "tokens": [
+      "stupid"
+    ],
+    "words": [
+      "stupid"
+    ],
+    "positive": [],
+    "negative": [
+      "stupid"
+    ]
+  },
+  {
+    "score": 6,
+    "comparative": 1,
+    "calculation": [
+      {
+        "✊": 2
+      },
+      {
+        "🎉": 2
+      },
+      {
+        "thanks": 2
+      }
+    ],
+    "tokens": [
+      "hey",
+      "thanks",
+      "for",
+      "giveaway",
+      "🎉",
+      "✊"
+    ],
+    "words": [
+      "✊",
+      "🎉",
+      "thanks"
+    ],
+    "positive": [
+      "✊",
+      "🎉",
+      "thanks"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 2,
+    "calculation": [
+      {
+        "true": 2
+      }
+    ],
+    "tokens": [
+      "true"
+    ],
+    "words": [
+      "true"
+    ],
+    "positive": [
+      "true"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.21052631578947367,
+    "calculation": [
+      {
+        "profit": 2
+      },
+      {
+        "true": 2
+      }
+    ],
+    "tokens": [
+      "large",
+      "incumbent",
+      "carmakers",
+      "sell",
+      "their",
+      "cars",
+      "at",
+      "low",
+      "to",
+      "zero",
+      "true",
+      "margin",
+      "most",
+      "of",
+      "their",
+      "profit",
+      "is",
+      "selling",
+      "replac…"
+    ],
+    "words": [
+      "profit",
+      "true"
+    ],
+    "positive": [
+      "profit",
+      "true"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.7777777777777778,
+    "calculation": [
+      {
+        "innovation": 1
+      },
+      {
+        "curious": 1
+      },
+      {
+        "congratulations": 2
+      },
+      {
+        "great": 3
+      }
+    ],
+    "tokens": [
+      "great",
+      "initiative",
+      "congratulations",
+      "the",
+      "curious",
+      "people",
+      "shape",
+      "innovation",
+      "techn…"
+    ],
+    "words": [
+      "innovation",
+      "curious",
+      "congratulations",
+      "great"
+    ],
+    "positive": [
+      "innovation",
+      "curious",
+      "congratulations",
+      "great"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.043478260869565216,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "problems": -2
+      },
+      {
+        "solving": 1
+      }
+    ],
+    "tokens": [
+      "we",
+      "should",
+      "dedicate",
+      "99",
+      "of",
+      "our",
+      "economy",
+      "solving",
+      "problems",
+      "on",
+      "earth",
+      "but",
+      "maybe",
+      "something",
+      "like",
+      "less",
+      "than",
+      "1",
+      "could",
+      "be",
+      "applied",
+      "to",
+      "e…"
+    ],
+    "words": [
+      "like",
+      "problems",
+      "solving"
+    ],
+    "positive": [
+      "like",
+      "solving"
+    ],
+    "negative": [
+      "problems"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.75,
+    "calculation": [
+      {
+        "😌": 2
+      },
+      {
+        "safe": 1
+      }
+    ],
+    "tokens": [
+      "safe",
+      "babydoge",
+      "coin",
+      "😌"
+    ],
+    "words": [
+      "😌",
+      "safe"
+    ],
+    "positive": [
+      "😌",
+      "safe"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 3,
+    "calculation": [
+      {
+        "impressive": 3
+      }
+    ],
+    "tokens": [
+      "impressive"
+    ],
+    "words": [
+      "impressive"
+    ],
+    "positive": [
+      "impressive"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.09090909090909091,
+    "calculation": [
+      {
+        "dick": -4
+      },
+      {
+        "true": 2
+      },
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "make",
+      "some",
+      "dreams",
+      "come",
+      "true",
+      "come",
+      "on",
+      "don't",
+      "be",
+      "a",
+      "dick"
+    ],
+    "words": [
+      "dick",
+      "true",
+      "dreams"
+    ],
+    "positive": [
+      "true",
+      "dreams"
+    ],
+    "negative": [
+      "dick"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "best": 3
+      },
+      {
+        "tops": 2
+      }
+    ],
+    "tokens": [
+      "mountain",
+      "tops",
+      "are",
+      "not",
+      "the",
+      "best",
+      "place",
+      "to",
+      "grow",
+      "crops"
+    ],
+    "words": [
+      "best",
+      "tops"
+    ],
+    "positive": [
+      "best",
+      "tops"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.4375,
+    "calculation": [
+      {
+        "save": 2
+      },
+      {
+        "best": 3
+      },
+      {
+        "thank": 2
+      }
+    ],
+    "tokens": [
+      "thank",
+      "you",
+      "mr",
+      "musk",
+      "we",
+      "will",
+      "do",
+      "our",
+      "best",
+      "to",
+      "save",
+      "the",
+      "planet",
+      "we",
+      "all",
+      "ju…"
+    ],
+    "words": [
+      "save",
+      "best",
+      "thank"
+    ],
+    "positive": [
+      "save",
+      "best",
+      "thank"
+    ],
+    "negative": []
+  },
+  {
+    "score": 9,
+    "comparative": 0.8181818181818182,
+    "calculation": [
+      {
+        "join": 1
+      },
+      {
+        "welcome": 2
+      },
+      {
+        "love": 3
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "i",
+      "love",
+      "i",
+      "hold",
+      "forever",
+      "welcome",
+      "join",
+      "us",
+      "http…"
+    ],
+    "words": [
+      "join",
+      "welcome",
+      "love",
+      "love"
+    ],
+    "positive": [
+      "join",
+      "welcome",
+      "love",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "help",
+      "us",
+      "build",
+      "the",
+      "first",
+      "universal",
+      "basic",
+      "income"
+    ],
+    "words": [
+      "help"
+    ],
+    "positive": [
+      "help"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.42857142857142855,
+    "calculation": [
+      {
+        "good": 3
+      }
+    ],
+    "tokens": [
+      "space",
+      "tourism",
+      "is",
+      "good",
+      "for",
+      "carbon",
+      "emissions"
+    ],
+    "words": [
+      "good"
+    ],
+    "positive": [
+      "good"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.8571428571428571,
+    "calculation": [
+      {
+        "😍": 3
+      },
+      {
+        "best": 3
+      }
+    ],
+    "tokens": [
+      "simply",
+      "the",
+      "best",
+      "😍",
+      "is",
+      "taking",
+      "over…"
+    ],
+    "words": [
+      "😍",
+      "best"
+    ],
+    "positive": [
+      "😍",
+      "best"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "alive": 1
+      },
+      {
+        "hard": -1
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "say",
+      "what",
+      "you",
+      "want",
+      "about",
+      "but",
+      "between",
+      "and",
+      "it's",
+      "hard",
+      "for",
+      "me",
+      "to",
+      "think",
+      "of",
+      "another",
+      "person",
+      "alive",
+      "today",
+      "that…"
+    ],
+    "words": [
+      "alive",
+      "hard",
+      "want"
+    ],
+    "positive": [
+      "alive",
+      "want"
+    ],
+    "negative": [
+      "hard"
+    ]
+  },
+  {
+    "score": 9,
+    "comparative": 1.5,
+    "calculation": [
+      {
+        "💎": 3
+      },
+      {
+        "❤": 3
+      },
+      {
+        "🚀": 3
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "happening…",
+      "🚀",
+      "❤",
+      "️",
+      "💎"
+    ],
+    "words": [
+      "💎",
+      "❤",
+      "🚀"
+    ],
+    "positive": [
+      "💎",
+      "❤",
+      "🚀"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "this",
+      "what's",
+      "happening",
+      "first"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": -4,
+    "comparative": -0.6666666666666666,
+    "calculation": [
+      {
+        "worries": -3
+      },
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "no",
+      "worries",
+      "situation",
+      "is",
+      "under",
+      "control"
+    ],
+    "words": [
+      "worries",
+      "no"
+    ],
+    "positive": [],
+    "negative": [
+      "worries",
+      "no"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "help",
+      "us",
+      "build",
+      "the",
+      "first",
+      "universal",
+      "basic",
+      "income"
+    ],
+    "words": [
+      "help"
+    ],
+    "positive": [
+      "help"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "god": 1
+      }
+    ],
+    "tokens": [
+      "oh",
+      "god",
+      "tell",
+      "me",
+      "you're",
+      "joking",
+      "about",
+      "him",
+      "creating",
+      "doge",
+      "and",
+      "evs"
+    ],
+    "words": [
+      "god"
+    ],
+    "positive": [
+      "god"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.2,
+    "calculation": [
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "no",
+      "they",
+      "don't",
+      "unless",
+      "y…"
+    ],
+    "words": [
+      "no"
+    ],
+    "positive": [],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 1,
+    "calculation": [
+      {
+        "better": 2
+      },
+      {
+        "impressive": 3
+      }
+    ],
+    "tokens": [
+      "impressive",
+      "but",
+      "can",
+      "do",
+      "better"
+    ],
+    "words": [
+      "better",
+      "impressive"
+    ],
+    "positive": [
+      "better",
+      "impressive"
+    ],
+    "negative": []
+  }
+]

@@ -1,0 +1,3132 @@
+[
+  {
+    "score": 2,
+    "comparative": 0.13333333333333333,
+    "calculation": [
+      {
+        "thanks": 2
+      }
+    ],
+    "tokens": [
+      "bottlerock",
+      "was",
+      "a",
+      "blast",
+      "thanks",
+      "to",
+      "the",
+      "fantastically",
+      "tuned",
+      "and",
+      "teched",
+      "adamson",
+      "pa",
+      "provided",
+      "by"
+    ],
+    "words": [
+      "thanks"
+    ],
+    "positive": [
+      "thanks"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "pleased": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "queen",
+      "must",
+      "be",
+      "pleased",
+      "her",
+      "majesty's",
+      "realm",
+      "in",
+      "these",
+      "islands",
+      "has",
+      "developed",
+      "two",
+      "new",
+      "principalities",
+      "the",
+      "industry-standard…"
+    ],
+    "words": [
+      "pleased"
+    ],
+    "positive": [
+      "pleased"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.043478260869565216,
+    "calculation": [
+      {
+        "join": 1
+      }
+    ],
+    "tokens": [
+      "join",
+      "us",
+      "for",
+      "a",
+      "walkthrough",
+      "of",
+      "all",
+      "the",
+      "new",
+      "features",
+      "in",
+      "media",
+      "composer",
+      "2021",
+      "9",
+      "including",
+      "avid’s",
+      "“over",
+      "the",
+      "shoulder”",
+      "srt",
+      "demo",
+      "with"
+    ],
+    "words": [
+      "join"
+    ],
+    "positive": [
+      "join"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "pleased": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "queen",
+      "must",
+      "be",
+      "pleased",
+      "her",
+      "majesty's",
+      "realm",
+      "in",
+      "these",
+      "islands",
+      "has",
+      "developed",
+      "two",
+      "new",
+      "principalities",
+      "the",
+      "industry-standard…"
+    ],
+    "words": [
+      "pleased"
+    ],
+    "positive": [
+      "pleased"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "secured": 2
+      }
+    ],
+    "tokens": [
+      "now",
+      "a",
+      "of",
+      "the",
+      "group",
+      "has",
+      "announced",
+      "that",
+      "it",
+      "has",
+      "secured",
+      "an",
+      "from",
+      "alignvest…"
+    ],
+    "words": [
+      "secured"
+    ],
+    "positive": [
+      "secured"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "pleased": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "queen",
+      "must",
+      "be",
+      "pleased",
+      "her",
+      "majesty's",
+      "realm",
+      "in",
+      "these",
+      "islands",
+      "has",
+      "developed",
+      "two",
+      "new",
+      "principalities",
+      "the",
+      "industry-…"
+    ],
+    "words": [
+      "pleased"
+    ],
+    "positive": [
+      "pleased"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "attack": -1
+      },
+      {
+        "🎧": 2
+      }
+    ],
+    "tokens": [
+      "🎧",
+      "massive",
+      "attack",
+      "mashup",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "attack",
+      "🎧"
+    ],
+    "positive": [
+      "📷",
+      "🎧"
+    ],
+    "negative": [
+      "attack"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "attack": -1
+      },
+      {
+        "🎧": 2
+      }
+    ],
+    "tokens": [
+      "🎧",
+      "massive",
+      "attack",
+      "mashup",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "attack",
+      "🎧"
+    ],
+    "positive": [
+      "📷",
+      "🎧"
+    ],
+    "negative": [
+      "attack"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "attack": -1
+      },
+      {
+        "🎧": 2
+      }
+    ],
+    "tokens": [
+      "🎧",
+      "massive",
+      "attack",
+      "mashup",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "attack",
+      "🎧"
+    ],
+    "positive": [
+      "📷",
+      "🎧"
+    ],
+    "negative": [
+      "attack"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "attack": -1
+      },
+      {
+        "🎧": 2
+      }
+    ],
+    "tokens": [
+      "🎧",
+      "massive",
+      "attack",
+      "mashup",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "attack",
+      "🎧"
+    ],
+    "positive": [
+      "📷",
+      "🎧"
+    ],
+    "negative": [
+      "attack"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.75,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "love",
+      "your",
+      "work",
+      "matt"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.18181818181818182,
+    "calculation": [
+      {
+        "▶": 1
+      },
+      {
+        "📷": 2
+      },
+      {
+        "cheat": -3
+      },
+      {
+        "🔊": 2
+      }
+    ],
+    "tokens": [
+      "🔊",
+      "eq",
+      "frequency",
+      "cheat",
+      "sheet",
+      "📷",
+      "independent",
+      "recording",
+      "network",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶",
+      "📷",
+      "cheat",
+      "🔊"
+    ],
+    "positive": [
+      "▶",
+      "📷",
+      "🔊"
+    ],
+    "negative": [
+      "cheat"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.09090909090909091,
+    "calculation": [
+      {
+        "big": 1
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "want",
+      "that",
+      "big",
+      "studio",
+      "sound",
+      "in",
+      "your",
+      "own",
+      "space",
+      "watch",
+      "rock",
+      "band",
+      "londonderry",
+      "underground",
+      "record",
+      "a",
+      "banger",
+      "with",
+      "pro",
+      "tools",
+      "|",
+      "carbon…"
+    ],
+    "words": [
+      "big",
+      "want"
+    ],
+    "positive": [
+      "big",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.047619047619047616,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "talk",
+      "about…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.047619047619047616,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "talk",
+      "about…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "free": 1
+      },
+      {
+        "🎬": 1
+      }
+    ],
+    "tokens": [
+      "🎬",
+      "free",
+      "guy",
+      "—",
+      "the",
+      "complete",
+      "timeline",
+      "📸"
+    ],
+    "words": [
+      "free",
+      "🎬"
+    ],
+    "positive": [
+      "free",
+      "🎬"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "free": 1
+      },
+      {
+        "🎬": 1
+      }
+    ],
+    "tokens": [
+      "🎬",
+      "free",
+      "guy",
+      "—",
+      "the",
+      "complete",
+      "timeline",
+      "📸"
+    ],
+    "words": [
+      "free",
+      "🎬"
+    ],
+    "positive": [
+      "free",
+      "🎬"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "free": 1
+      },
+      {
+        "🎬": 1
+      }
+    ],
+    "tokens": [
+      "🎬",
+      "free",
+      "guy",
+      "—",
+      "the",
+      "complete",
+      "timeline",
+      "📸"
+    ],
+    "words": [
+      "free",
+      "🎬"
+    ],
+    "positive": [
+      "free",
+      "🎬"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.07142857142857142,
+    "calculation": [
+      {
+        "▶": 1
+      }
+    ],
+    "tokens": [
+      "how",
+      "will",
+      "your",
+      "atmos",
+      "mix",
+      "sound",
+      "to",
+      "your",
+      "listeners",
+      "on",
+      "headphones",
+      "explains",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶"
+    ],
+    "positive": [
+      "▶"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 2.5,
+    "calculation": [
+      {
+        "happy": 3
+      },
+      {
+        "🐶": 2
+      }
+    ],
+    "tokens": [
+      "🐶",
+      "happy"
+    ],
+    "words": [
+      "happy",
+      "🐶"
+    ],
+    "positive": [
+      "happy",
+      "🐶"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 2.5,
+    "calculation": [
+      {
+        "happy": 3
+      },
+      {
+        "🐶": 2
+      }
+    ],
+    "tokens": [
+      "🐶",
+      "happy"
+    ],
+    "words": [
+      "happy",
+      "🐶"
+    ],
+    "positive": [
+      "happy",
+      "🐶"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.07142857142857142,
+    "calculation": [
+      {
+        "▶": 1
+      }
+    ],
+    "tokens": [
+      "how",
+      "will",
+      "your",
+      "atmos",
+      "mix",
+      "sound",
+      "to",
+      "your",
+      "listeners",
+      "on",
+      "headphones",
+      "explains",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶"
+    ],
+    "positive": [
+      "▶"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.125,
+    "calculation": [
+      {
+        "▶": 1
+      },
+      {
+        "free": 1
+      }
+    ],
+    "tokens": [
+      "get",
+      "spread",
+      "by",
+      "ultimate",
+      "stereo",
+      "imaging",
+      "tool—now",
+      "free",
+      "for",
+      "pro",
+      "tools",
+      "inner",
+      "circle",
+      "members",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶",
+      "free"
+    ],
+    "positive": [
+      "▶",
+      "free"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "no": -1
+      },
+      {
+        "😺": 2
+      }
+    ],
+    "tokens": [
+      "😺",
+      "no",
+      "strings",
+      "attached",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "no",
+      "😺"
+    ],
+    "positive": [
+      "📷",
+      "😺"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.7142857142857143,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "😍": 3
+      }
+    ],
+    "tokens": [
+      "😍",
+      "unboxing",
+      "pro",
+      "tools",
+      "|",
+      "carbon",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "😍"
+    ],
+    "positive": [
+      "📷",
+      "😍"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "cutting": -1
+      }
+    ],
+    "tokens": [
+      "🏎",
+      "️",
+      "cutting",
+      "formula",
+      "1",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "cutting"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": [
+      "cutting"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "🎚",
+      "️",
+      "molinare’s",
+      "all-new",
+      "dolby",
+      "atmos",
+      "sound",
+      "stage",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.125,
+    "calculation": [
+      {
+        "▶": 1
+      },
+      {
+        "free": 1
+      }
+    ],
+    "tokens": [
+      "get",
+      "spread",
+      "by",
+      "ultimate",
+      "stereo",
+      "imaging",
+      "tool—now",
+      "free",
+      "for",
+      "pro",
+      "tools",
+      "inner",
+      "circle",
+      "members",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶",
+      "free"
+    ],
+    "positive": [
+      "▶",
+      "free"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "🎚",
+      "️",
+      "molinare’s",
+      "all-new",
+      "dolby",
+      "atmos",
+      "sound",
+      "stage",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.2777777777777778,
+    "calculation": [
+      {
+        "▶": 1
+      },
+      {
+        "excitement": 3
+      },
+      {
+        "shares": 1
+      }
+    ],
+    "tokens": [
+      "video",
+      "game",
+      "composer",
+      "and",
+      "sound",
+      "designer",
+      "shares",
+      "his",
+      "excitement",
+      "about",
+      "the",
+      "new",
+      "sibelius",
+      "for",
+      "mobile",
+      "app",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶",
+      "excitement",
+      "shares"
+    ],
+    "positive": [
+      "▶",
+      "excitement",
+      "shares"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "no": -1
+      },
+      {
+        "😺": 2
+      }
+    ],
+    "tokens": [
+      "😺",
+      "no",
+      "strings",
+      "attached",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "no",
+      "😺"
+    ],
+    "positive": [
+      "📷",
+      "😺"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "🎚",
+      "️",
+      "molinare’s",
+      "all-new",
+      "dolby",
+      "atmos",
+      "sound",
+      "stage",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "🎼": 1
+      }
+    ],
+    "tokens": [
+      "🎼",
+      "let's",
+      "face",
+      "the",
+      "music",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "🎼"
+    ],
+    "positive": [
+      "📷",
+      "🎼"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "🎚",
+      "️",
+      "molinare’s",
+      "all-new",
+      "dolby",
+      "atmos",
+      "sound",
+      "stage",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "🎚",
+      "️",
+      "molinare’s",
+      "all-new",
+      "dolby",
+      "atmos",
+      "sound",
+      "stage",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "⚡",
+      "from",
+      "tin",
+      "foil",
+      "to",
+      "thunder",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "so",
+      "a",
+      "amp",
+      "a",
+      "steady",
+      "pace",
+      "please"
+    ],
+    "words": [
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "so",
+      "a",
+      "amp",
+      "a",
+      "steady",
+      "pace",
+      "please"
+    ],
+    "words": [
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "so",
+      "a",
+      "amp",
+      "a",
+      "steady",
+      "pace",
+      "please"
+    ],
+    "words": [
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "cutting": -1
+      }
+    ],
+    "tokens": [
+      "🏎",
+      "️",
+      "cutting",
+      "formula",
+      "1",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "cutting"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": [
+      "cutting"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 1,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.35714285714285715,
+    "calculation": [
+      {
+        "🎧": 2
+      },
+      {
+        "lol": 3
+      }
+    ],
+    "tokens": [
+      "setting",
+      "my",
+      "the",
+      "groups",
+      "to",
+      "run",
+      "my",
+      "static",
+      "pass",
+      "before",
+      "automation",
+      "mania",
+      "lol",
+      "🎧"
+    ],
+    "words": [
+      "🎧",
+      "lol"
+    ],
+    "positive": [
+      "🎧",
+      "lol"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.19047619047619047,
+    "calculation": [
+      {
+        "avid": 2
+      },
+      {
+        "avid": 2
+      }
+    ],
+    "tokens": [
+      "in",
+      "buenos",
+      "aires",
+      "features",
+      "a",
+      "dolby",
+      "atmos-approved",
+      "system",
+      "built",
+      "around",
+      "pro",
+      "tools",
+      "two",
+      "avid",
+      "s1’s",
+      "and",
+      "an",
+      "avid",
+      "dock",
+      "to",
+      "mix…"
+    ],
+    "words": [
+      "avid",
+      "avid"
+    ],
+    "positive": [
+      "avid",
+      "avid"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "cutting": -1
+      }
+    ],
+    "tokens": [
+      "🏎",
+      "️",
+      "cutting",
+      "formula",
+      "1",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "cutting"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": [
+      "cutting"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "straight": 1
+      }
+    ],
+    "tokens": [
+      "nothing",
+      "is",
+      "simple",
+      "with",
+      "you",
+      "guys",
+      "and",
+      "your",
+      "website",
+      "is",
+      "straight",
+      "up",
+      "not",
+      "working",
+      "and",
+      "is",
+      "really",
+      "screwing",
+      "me",
+      "over"
+    ],
+    "words": [
+      "straight"
+    ],
+    "positive": [
+      "straight"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.08333333333333333,
+    "calculation": [
+      {
+        "problems": -2
+      }
+    ],
+    "tokens": [
+      "hi",
+      "i'm",
+      "having",
+      "problems",
+      "with",
+      "pro",
+      "tools",
+      "hd",
+      "i",
+      "buyed",
+      "the",
+      "license",
+      "with",
+      "paypal",
+      "and",
+      "i",
+      "didn't",
+      "have",
+      "the",
+      "id",
+      "or",
+      "nothing",
+      "in",
+      "m…"
+    ],
+    "words": [
+      "problems"
+    ],
+    "positive": [],
+    "negative": [
+      "problems"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.2727272727272727,
+    "calculation": [
+      {
+        "best": 3
+      }
+    ],
+    "tokens": [
+      "this",
+      "is",
+      "the",
+      "best",
+      "thing",
+      "i'm",
+      "going",
+      "to",
+      "see",
+      "today",
+      "🤘"
+    ],
+    "words": [
+      "best"
+    ],
+    "positive": [
+      "best"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "cutting": -1
+      }
+    ],
+    "tokens": [
+      "🏎",
+      "️",
+      "cutting",
+      "formula",
+      "1",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "cutting"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": [
+      "cutting"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.07142857142857142,
+    "calculation": [
+      {
+        "▶": 1
+      }
+    ],
+    "tokens": [
+      "how",
+      "will",
+      "your",
+      "atmos",
+      "mix",
+      "sound",
+      "to",
+      "your",
+      "listeners",
+      "on",
+      "headphones",
+      "explains",
+      "▶",
+      "️"
+    ],
+    "words": [
+      "▶"
+    ],
+    "positive": [
+      "▶"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "interest": 1
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "want",
+      "to",
+      "add",
+      "texture",
+      "and",
+      "interest",
+      "to",
+      "hip-hop",
+      "vocals",
+      "check",
+      "out",
+      "this",
+      "trick",
+      "for",
+      "using",
+      "a",
+      "reverse",
+      "reverb",
+      "and",
+      "filter",
+      "gate",
+      "in",
+      "pro",
+      "tools…"
+    ],
+    "words": [
+      "interest",
+      "want"
+    ],
+    "positive": [
+      "interest",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "cutting": -1
+      }
+    ],
+    "tokens": [
+      "🏎",
+      "️",
+      "cutting",
+      "formula",
+      "1",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "cutting"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": [
+      "cutting"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "interest": 1
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "want",
+      "to",
+      "add",
+      "texture",
+      "and",
+      "interest",
+      "to",
+      "hip-hop",
+      "vocals",
+      "check",
+      "out",
+      "this",
+      "trick",
+      "for",
+      "using",
+      "a",
+      "reverse",
+      "reverb",
+      "and",
+      "filter",
+      "gate",
+      "in",
+      "pro",
+      "tools…"
+    ],
+    "words": [
+      "interest",
+      "want"
+    ],
+    "positive": [
+      "interest",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.043478260869565216,
+    "calculation": [
+      {
+        "join": 1
+      }
+    ],
+    "tokens": [
+      "join",
+      "us",
+      "for",
+      "a",
+      "walkthrough",
+      "of",
+      "all",
+      "the",
+      "new",
+      "features",
+      "in",
+      "media",
+      "composer",
+      "2021",
+      "9",
+      "including",
+      "avid’s",
+      "“over",
+      "the",
+      "shoulder”",
+      "srt",
+      "demo",
+      "with"
+    ],
+    "words": [
+      "join"
+    ],
+    "positive": [
+      "join"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.08695652173913043,
+    "calculation": [
+      {
+        "avid": 2
+      }
+    ],
+    "tokens": [
+      "hey",
+      "avid",
+      "i",
+      "just",
+      "resubscribed",
+      "to",
+      "the",
+      "protools",
+      "plan",
+      "you",
+      "guys",
+      "have",
+      "amp",
+      "it",
+      "won’t",
+      "let",
+      "me",
+      "log",
+      "into",
+      "my",
+      "ilok",
+      "account",
+      "fr…"
+    ],
+    "words": [
+      "avid"
+    ],
+    "positive": [
+      "avid"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.047619047619047616,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "talk",
+      "about…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.047619047619047616,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "talk",
+      "about…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.047619047619047616,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "talk",
+      "about…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.6,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "attack": -1
+      },
+      {
+        "🎧": 2
+      }
+    ],
+    "tokens": [
+      "🎧",
+      "massive",
+      "attack",
+      "mashup",
+      "📷"
+    ],
+    "words": [
+      "📷",
+      "attack",
+      "🎧"
+    ],
+    "positive": [
+      "📷",
+      "🎧"
+    ],
+    "negative": [
+      "attack"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.043478260869565216,
+    "calculation": [
+      {
+        "join": 1
+      }
+    ],
+    "tokens": [
+      "join",
+      "us",
+      "for",
+      "a",
+      "walkthrough",
+      "of",
+      "all",
+      "the",
+      "new",
+      "features",
+      "in",
+      "media",
+      "composer",
+      "2021",
+      "9",
+      "including",
+      "avid’s",
+      "“over",
+      "the",
+      "shoulder”",
+      "srt",
+      "demo",
+      "with"
+    ],
+    "words": [
+      "join"
+    ],
+    "positive": [
+      "join"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.38461538461538464,
+    "calculation": [
+      {
+        "💞": 3
+      },
+      {
+        "poor": -2
+      },
+      {
+        "free": 1
+      },
+      {
+        "avid": 2
+      },
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "please",
+      "give",
+      "me",
+      "avid",
+      "pro",
+      "tools",
+      "for",
+      "free",
+      "im",
+      "poor",
+      "luv",
+      "u",
+      "💞"
+    ],
+    "words": [
+      "💞",
+      "poor",
+      "free",
+      "avid",
+      "please"
+    ],
+    "positive": [
+      "💞",
+      "free",
+      "avid",
+      "please"
+    ],
+    "negative": [
+      "poor"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.07142857142857142,
+    "calculation": [
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "hi",
+      "please",
+      "send",
+      "us",
+      "your",
+      "ilok",
+      "id",
+      "so",
+      "we",
+      "can",
+      "check",
+      "on",
+      "this",
+      "asap"
+    ],
+    "words": [
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "📷": 2
+      }
+    ],
+    "tokens": [
+      "🏅",
+      "that's",
+      "a",
+      "wrap",
+      "for",
+      "the",
+      "paralympics",
+      "📷"
+    ],
+    "words": [
+      "📷"
+    ],
+    "positive": [
+      "📷"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "customers",
+      "want",
+      "a",
+      "system",
+      "to",
+      "help",
+      "organize",
+      "catalogue",
+      "orchestrate",
+      "and",
+      "manage",
+      "media",
+      "on",
+      "cloud",
+      "and",
+      "ground",
+      "it’s",
+      "a",
+      "mam",
+      "but",
+      "not…"
+    ],
+    "words": [
+      "help",
+      "want"
+    ],
+    "positive": [
+      "help",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.047619047619047616,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "talk",
+      "about…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.05,
+    "calculation": [
+      {
+        "cut": -1
+      }
+    ],
+    "tokens": [
+      "on",
+      "this",
+      "week's",
+      "episode",
+      "of",
+      "the",
+      "rough",
+      "cut",
+      "editors",
+      "elísabet",
+      "ronaldsdottír",
+      "ace",
+      "nat",
+      "sanders",
+      "ace",
+      "and",
+      "harry",
+      "yoon",
+      "ace",
+      "ta…"
+    ],
+    "words": [
+      "cut"
+    ],
+    "positive": [],
+    "negative": [
+      "cut"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.6666666666666666,
+    "calculation": [
+      {
+        "fire": -2
+      }
+    ],
+    "tokens": [
+      "so",
+      "fire",
+      "🔥"
+    ],
+    "words": [
+      "fire"
+    ],
+    "positive": [],
+    "negative": [
+      "fire"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.45454545454545453,
+    "calculation": [
+      {
+        "📷": 2
+      },
+      {
+        "inspiring": 3
+      }
+    ],
+    "tokens": [
+      "🥁",
+      "one",
+      "hand",
+      "two",
+      "drum",
+      "sticks",
+      "—",
+      "inspiring",
+      "📷",
+      "https",
+      "…"
+    ],
+    "words": [
+      "📷",
+      "inspiring"
+    ],
+    "positive": [
+      "📷",
+      "inspiring"
+    ],
+    "negative": []
+  }
+]

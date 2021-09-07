@@ -1,0 +1,2750 @@
+[
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.23809523809523808,
+    "calculation": [
+      {
+        "great": 3
+      },
+      {
+        "cheers": 2
+      }
+    ],
+    "tokens": [
+      "cheers",
+      "to",
+      "a",
+      "great",
+      "labor",
+      "day",
+      "weekend",
+      "what",
+      "will",
+      "be",
+      "your",
+      "first",
+      "treat",
+      "onboard",
+      "smoked",
+      "sausage",
+      "or",
+      "brews",
+      "the",
+      "funnel",
+      "couldn'…"
+    ],
+    "words": [
+      "great",
+      "cheers"
+    ],
+    "positive": [
+      "great",
+      "cheers"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": -5,
+    "comparative": -0.35714285714285715,
+    "calculation": [
+      {
+        "deadly": -3
+      },
+      {
+        "irresponsible": -2
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "completely",
+      "irresponsible",
+      "for",
+      "your",
+      "petri",
+      "dishes",
+      "to",
+      "be",
+      "cruising",
+      "during",
+      "a",
+      "deadly",
+      "pandemic"
+    ],
+    "words": [
+      "deadly",
+      "irresponsible"
+    ],
+    "positive": [],
+    "negative": [
+      "deadly",
+      "irresponsible"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "😫": -1
+      },
+      {
+        "extend": 1
+      },
+      {
+        "please": 1
+      },
+      {
+        "pretty": 1
+      }
+    ],
+    "tokens": [
+      "pretty",
+      "please",
+      "extend",
+      "the",
+      "sale",
+      "two",
+      "more",
+      "days",
+      "i",
+      "still",
+      "need",
+      "my",
+      "honeymoon",
+      "😫"
+    ],
+    "words": [
+      "😫",
+      "extend",
+      "please",
+      "pretty"
+    ],
+    "positive": [
+      "extend",
+      "please",
+      "pretty"
+    ],
+    "negative": [
+      "😫"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.13636363636363635,
+    "calculation": [
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "the",
+      "fact",
+      "that",
+      "i",
+      "never",
+      "know",
+      "if",
+      "i'll",
+      "run",
+      "into",
+      "behind",
+      "the",
+      "counter",
+      "at",
+      "or",
+      "maybe",
+      "i'll",
+      "see",
+      "him",
+      "on…"
+    ],
+    "words": [
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.23809523809523808,
+    "calculation": [
+      {
+        "great": 3
+      },
+      {
+        "cheers": 2
+      }
+    ],
+    "tokens": [
+      "cheers",
+      "to",
+      "a",
+      "great",
+      "labor",
+      "day",
+      "weekend",
+      "what",
+      "will",
+      "be",
+      "your",
+      "first",
+      "treat",
+      "onboard",
+      "smoked",
+      "sausage",
+      "or",
+      "brews",
+      "the",
+      "funnel",
+      "couldn'…"
+    ],
+    "words": [
+      "great",
+      "cheers"
+    ],
+    "positive": [
+      "great",
+      "cheers"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "demand": -1
+      }
+    ],
+    "tokens": [
+      "if",
+      "demand",
+      "is",
+      "high",
+      "enough",
+      "…"
+    ],
+    "words": [
+      "demand"
+    ],
+    "positive": [],
+    "negative": [
+      "demand"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.1875,
+    "calculation": [
+      {
+        "collide": -1
+      },
+      {
+        "miracle": 4
+      }
+    ],
+    "tokens": [
+      "last",
+      "sea",
+      "day",
+      "on",
+      "the",
+      "miracle",
+      "means",
+      "a",
+      "proper",
+      "tea",
+      "party",
+      "where",
+      "and",
+      "collide",
+      "https",
+      "…"
+    ],
+    "words": [
+      "collide",
+      "miracle"
+    ],
+    "positive": [
+      "miracle"
+    ],
+    "negative": [
+      "collide"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.21428571428571427,
+    "calculation": [
+      {
+        "collide": -1
+      },
+      {
+        "miracle": 4
+      }
+    ],
+    "tokens": [
+      "last",
+      "sea",
+      "day",
+      "on",
+      "the",
+      "miracle",
+      "means",
+      "a",
+      "proper",
+      "tea",
+      "party",
+      "where",
+      "and",
+      "collide"
+    ],
+    "words": [
+      "collide",
+      "miracle"
+    ],
+    "positive": [
+      "miracle"
+    ],
+    "negative": [
+      "collide"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.1111111111111111,
+    "calculation": [
+      {
+        "ridiculous": -3
+      },
+      {
+        "thanks": 2
+      },
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "no",
+      "thanks",
+      "our",
+      "last",
+      "carnival",
+      "cruise",
+      "was",
+      "ridiculous",
+      "and",
+      "i’m",
+      "still",
+      "waiting",
+      "to",
+      "hear",
+      "back",
+      "from",
+      "“guest",
+      "care”"
+    ],
+    "words": [
+      "ridiculous",
+      "thanks",
+      "no"
+    ],
+    "positive": [
+      "thanks"
+    ],
+    "negative": [
+      "ridiculous",
+      "no"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.23529411764705882,
+    "calculation": [
+      {
+        "refuse": -2
+      },
+      {
+        "starve": -2
+      }
+    ],
+    "tokens": [
+      "leaves",
+      "paying",
+      "customers",
+      "to",
+      "starve",
+      "when",
+      "they",
+      "refuse",
+      "to",
+      "believe",
+      "their",
+      "vaccination",
+      "cards",
+      "and",
+      "not",
+      "let",
+      "t…"
+    ],
+    "words": [
+      "refuse",
+      "starve"
+    ],
+    "positive": [],
+    "negative": [
+      "refuse",
+      "starve"
+    ]
+  },
+  {
+    "score": -7,
+    "comparative": -0.3888888888888889,
+    "calculation": [
+      {
+        "sued": -2
+      },
+      {
+        "worst": -3
+      },
+      {
+        "boycott": -2
+      }
+    ],
+    "tokens": [
+      "boycott",
+      "worst",
+      "cruise",
+      "line",
+      "on",
+      "the",
+      "planet",
+      "they",
+      "should",
+      "be",
+      "sued",
+      "for",
+      "the",
+      "lies",
+      "they",
+      "tell",
+      "and",
+      "the…"
+    ],
+    "words": [
+      "sued",
+      "worst",
+      "boycott"
+    ],
+    "positive": [],
+    "negative": [
+      "sued",
+      "worst",
+      "boycott"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.15,
+    "calculation": [
+      {
+        "worst": -3
+      }
+    ],
+    "tokens": [
+      "is",
+      "the",
+      "worst",
+      "cruise",
+      "line",
+      "do",
+      "not",
+      "book",
+      "with",
+      "them",
+      "❗",
+      "️my",
+      "elderly",
+      "mother",
+      "is",
+      "stranded",
+      "in",
+      "miami",
+      "all",
+      "because…"
+    ],
+    "words": [
+      "worst"
+    ],
+    "positive": [],
+    "negative": [
+      "worst"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "that's…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "smartest": 2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "love",
+      "so",
+      "many",
+      "of",
+      "the",
+      "crypto",
+      "youtubers",
+      "but",
+      "when",
+      "the",
+      "smartest",
+      "person",
+      "i",
+      "know",
+      "says",
+      "might",
+      "go",
+      "to",
+      "this",
+      "cycle",
+      "…"
+    ],
+    "words": [
+      "smartest",
+      "love"
+    ],
+    "positive": [
+      "smartest",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2,
+    "calculation": [
+      {
+        "cheers": 2
+      }
+    ],
+    "tokens": [
+      "is",
+      "muscle",
+      "milk",
+      "included",
+      "in",
+      "the",
+      "cheers",
+      "package",
+      "on",
+      "vista"
+    ],
+    "words": [
+      "cheers"
+    ],
+    "positive": [
+      "cheers"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.2,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "due",
+      "to",
+      "covid",
+      "what",
+      "is",
+      "your",
+      "current",
+      "sailing",
+      "capacity",
+      "on",
+      "your",
+      "ships",
+      "i",
+      "would",
+      "like",
+      "to",
+      "sail",
+      "on",
+      "ei…"
+    ],
+    "words": [
+      "like",
+      "dear"
+    ],
+    "positive": [
+      "like",
+      "dear"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "rt",
+      "if",
+      "you’re",
+      "joining",
+      "our",
+      "funnel",
+      "on",
+      "your",
+      "next",
+      "fun-cation"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "negative": -2
+      },
+      {
+        "stop": -1
+      }
+    ],
+    "tokens": [
+      "stop",
+      "advertising",
+      "you",
+      "say",
+      "you",
+      "require",
+      "a",
+      "full",
+      "vaccine",
+      "a",
+      "negative",
+      "test",
+      "within",
+      "2",
+      "days",
+      "of",
+      "boarding",
+      "and…"
+    ],
+    "words": [
+      "negative",
+      "stop"
+    ],
+    "positive": [],
+    "negative": [
+      "negative",
+      "stop"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.25,
+    "calculation": [
+      {
+        "stop": -1
+      }
+    ],
+    "tokens": [
+      "stop",
+      "sailing",
+      "from",
+      "texas"
+    ],
+    "words": [
+      "stop"
+    ],
+    "positive": [],
+    "negative": [
+      "stop"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "negative": -2
+      }
+    ],
+    "tokens": [
+      "what’s",
+      "the",
+      "point",
+      "of",
+      "a",
+      "vaccine",
+      "and",
+      "a",
+      "negative",
+      "test",
+      "requirement",
+      "then"
+    ],
+    "words": [
+      "negative"
+    ],
+    "positive": [],
+    "negative": [
+      "negative"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.10526315789473684,
+    "calculation": [
+      {
+        "interest": 1
+      },
+      {
+        "best": 3
+      },
+      {
+        "violations": -2
+      }
+    ],
+    "tokens": [
+      "to",
+      "recent",
+      "constitutional",
+      "violations",
+      "by",
+      "the",
+      "state",
+      "of",
+      "texas",
+      "it",
+      "would",
+      "be",
+      "in",
+      "the",
+      "best",
+      "interest",
+      "of",
+      "our",
+      "natio…"
+    ],
+    "words": [
+      "interest",
+      "best",
+      "violations"
+    ],
+    "positive": [
+      "interest",
+      "best"
+    ],
+    "negative": [
+      "violations"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.11764705882352941,
+    "calculation": [
+      {
+        "interest": 1
+      },
+      {
+        "best": 3
+      },
+      {
+        "violations": -2
+      }
+    ],
+    "tokens": [
+      "to",
+      "recent",
+      "constitutional",
+      "violations",
+      "by",
+      "the",
+      "state",
+      "of",
+      "texas",
+      "it",
+      "would",
+      "be",
+      "in",
+      "the",
+      "best",
+      "interest",
+      "of…"
+    ],
+    "words": [
+      "interest",
+      "best",
+      "violations"
+    ],
+    "positive": [
+      "interest",
+      "best"
+    ],
+    "negative": [
+      "violations"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.1875,
+    "calculation": [
+      {
+        "worst": -3
+      }
+    ],
+    "tokens": [
+      "honestly",
+      "the",
+      "worst",
+      "cruising",
+      "experience",
+      "i’ve",
+      "ever",
+      "had",
+      "zero",
+      "response",
+      "from",
+      "“guestcare”",
+      "in",
+      "the",
+      "3",
+      "weeks…"
+    ],
+    "words": [
+      "worst"
+    ],
+    "positive": [],
+    "negative": [
+      "worst"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.23529411764705882,
+    "calculation": [
+      {
+        "want": 1
+      },
+      {
+        "lol": 3
+      }
+    ],
+    "tokens": [
+      "oh",
+      "lol",
+      "that",
+      "thing",
+      "i",
+      "honestly",
+      "want",
+      "to",
+      "see",
+      "how",
+      "many",
+      "animals",
+      "we",
+      "can",
+      "board",
+      "on",
+      "a…"
+    ],
+    "words": [
+      "want",
+      "lol"
+    ],
+    "positive": [
+      "want",
+      "lol"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.4,
+    "calculation": [
+      {
+        "😉": 2
+      }
+    ],
+    "tokens": [
+      "hire",
+      "me",
+      "for",
+      "advertising",
+      "😉"
+    ],
+    "words": [
+      "😉"
+    ],
+    "positive": [
+      "😉"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1111111111111111,
+    "calculation": [
+      {
+        "thanks": 2
+      }
+    ],
+    "tokens": [
+      "thanks",
+      "for",
+      "not",
+      "refunding",
+      "my",
+      "deposit",
+      "that",
+      "i",
+      "made",
+      "in",
+      "april",
+      "prior",
+      "to",
+      "you",
+      "announcing",
+      "your",
+      "new",
+      "covi…"
+    ],
+    "words": [
+      "thanks"
+    ],
+    "positive": [
+      "thanks"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.13333333333333333,
+    "calculation": [
+      {
+        "😆": 2
+      }
+    ],
+    "tokens": [
+      "at",
+      "the",
+      "pool",
+      "at",
+      "an",
+      "all",
+      "inclusive",
+      "resort",
+      "because",
+      "cruise",
+      "pools",
+      "are",
+      "to",
+      "small",
+      "😆"
+    ],
+    "words": [
+      "😆"
+    ],
+    "positive": [
+      "😆"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.07142857142857142,
+    "calculation": [
+      {
+        "cancelled": -1
+      }
+    ],
+    "tokens": [
+      "not",
+      "with",
+      "only",
+      "95",
+      "vaccinations",
+      "100",
+      "and",
+      "i’m",
+      "cruising",
+      "again",
+      "just",
+      "cancelled",
+      "two",
+      "cruises"
+    ],
+    "words": [
+      "cancelled"
+    ],
+    "positive": [],
+    "negative": [
+      "cancelled"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "championed": 2
+      }
+    ],
+    "tokens": [
+      "the",
+      "of",
+      "the",
+      "white",
+      "male",
+      "military",
+      "dictatorship",
+      "in",
+      "championed",
+      "by",
+      "⁦",
+      "⁦",
+      "amp",
+      "patronize…"
+    ],
+    "words": [
+      "championed"
+    ],
+    "positive": [
+      "championed"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "great": 3
+      }
+    ],
+    "tokens": [
+      "just",
+      "got",
+      "back",
+      "from",
+      "my",
+      "mardi",
+      "gras",
+      "cruise",
+      "i'll",
+      "say",
+      "that",
+      "i've",
+      "seen",
+      "some",
+      "great",
+      "playlist",
+      "productions",
+      "h…"
+    ],
+    "words": [
+      "great"
+    ],
+    "positive": [
+      "great"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.4166666666666667,
+    "calculation": [
+      {
+        "outstanding": 5
+      }
+    ],
+    "tokens": [
+      "what",
+      "a",
+      "truly",
+      "outstanding",
+      "idea",
+      "to",
+      "all",
+      "cruse",
+      "lines",
+      "vp",
+      "of",
+      "marketing"
+    ],
+    "words": [
+      "outstanding"
+    ],
+    "positive": [
+      "outstanding"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.35294117647058826,
+    "calculation": [
+      {
+        "excellent": 3
+      },
+      {
+        "thank": 2
+      },
+      {
+        "wish": 1
+      }
+    ],
+    "tokens": [
+      "i",
+      "wish",
+      "to",
+      "publicly",
+      "thank",
+      "my",
+      "room",
+      "steward",
+      "richard",
+      "for",
+      "going",
+      "above",
+      "and",
+      "beyond",
+      "providing",
+      "excellent",
+      "ser…"
+    ],
+    "words": [
+      "excellent",
+      "thank",
+      "wish"
+    ],
+    "positive": [
+      "excellent",
+      "thank",
+      "wish"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.05,
+    "calculation": [
+      {
+        "dropped": -1
+      }
+    ],
+    "tokens": [
+      "dropped",
+      "4",
+      "4",
+      "for",
+      "the",
+      "biggest",
+      "decline",
+      "in",
+      "the",
+      "s",
+      "amp",
+      "p",
+      "500",
+      "and",
+      "rival",
+      "fell",
+      "4",
+      "2",
+      "while",
+      "amo…"
+    ],
+    "words": [
+      "dropped"
+    ],
+    "positive": [],
+    "negative": [
+      "dropped"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.23809523809523808,
+    "calculation": [
+      {
+        "great": 3
+      },
+      {
+        "cheers": 2
+      }
+    ],
+    "tokens": [
+      "cheers",
+      "to",
+      "a",
+      "great",
+      "labor",
+      "day",
+      "weekend",
+      "what",
+      "will",
+      "be",
+      "your",
+      "first",
+      "treat",
+      "onboard",
+      "smoked",
+      "sausage",
+      "or",
+      "brews",
+      "the",
+      "funnel",
+      "couldn'…"
+    ],
+    "words": [
+      "great",
+      "cheers"
+    ],
+    "positive": [
+      "great",
+      "cheers"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.23809523809523808,
+    "calculation": [
+      {
+        "great": 3
+      },
+      {
+        "cheers": 2
+      }
+    ],
+    "tokens": [
+      "cheers",
+      "to",
+      "a",
+      "great",
+      "labor",
+      "day",
+      "weekend",
+      "what",
+      "will",
+      "be",
+      "your",
+      "first",
+      "treat",
+      "onboard",
+      "smoked",
+      "sausage",
+      "or",
+      "brews",
+      "the",
+      "funnel",
+      "couldn'…"
+    ],
+    "words": [
+      "great",
+      "cheers"
+    ],
+    "positive": [
+      "great",
+      "cheers"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.4166666666666667,
+    "calculation": [
+      {
+        "outstanding": 5
+      }
+    ],
+    "tokens": [
+      "what",
+      "a",
+      "truly",
+      "outstanding",
+      "idea",
+      "to",
+      "all",
+      "cruse",
+      "lines",
+      "vp",
+      "of",
+      "marketing"
+    ],
+    "words": [
+      "outstanding"
+    ],
+    "positive": [
+      "outstanding"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 1.4,
+    "calculation": [
+      {
+        "fabulous": 4
+      },
+      {
+        "beautiful": 3
+      }
+    ],
+    "tokens": [
+      "beautiful",
+      "mardi",
+      "gras",
+      "fabulous",
+      "ship"
+    ],
+    "words": [
+      "fabulous",
+      "beautiful"
+    ],
+    "positive": [
+      "fabulous",
+      "beautiful"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.1,
+    "calculation": [
+      {
+        "cancelled": -1
+      },
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "i",
+      "will",
+      "never",
+      "book",
+      "with",
+      "you",
+      "guys",
+      "again",
+      "35",
+      "days",
+      "and",
+      "still",
+      "no",
+      "refunds",
+      "for",
+      "a",
+      "cancelled",
+      "cruise",
+      "i",
+      "will…"
+    ],
+    "words": [
+      "cancelled",
+      "no"
+    ],
+    "positive": [],
+    "negative": [
+      "cancelled",
+      "no"
+    ]
+  }
+]

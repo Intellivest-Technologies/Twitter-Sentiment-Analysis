@@ -1,0 +1,1778 @@
+[
+  {
+    "score": -1,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "big": 1
+      },
+      {
+        "failed": -2
+      }
+    ],
+    "tokens": [
+      "failed",
+      "w",
+      "big",
+      "assists",
+      "from",
+      "amp"
+    ],
+    "words": [
+      "big",
+      "failed"
+    ],
+    "positive": [
+      "big"
+    ],
+    "negative": [
+      "failed"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.3076923076923077,
+    "calculation": [
+      {
+        "misinformation": -2
+      },
+      {
+        "harmful": -2
+      }
+    ],
+    "tokens": [
+      "in",
+      "a",
+      "interview",
+      "w",
+      "claimed",
+      "if",
+      "we",
+      "see",
+      "harmful",
+      "misinformation",
+      "on",
+      "the",
+      "platfor…"
+    ],
+    "words": [
+      "misinformation",
+      "harmful"
+    ],
+    "positive": [],
+    "negative": [
+      "misinformation",
+      "harmful"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.1111111111111111,
+    "calculation": [
+      {
+        "foul": -3
+      },
+      {
+        "super": 3
+      },
+      {
+        "propaganda": -2
+      }
+    ],
+    "tokens": [
+      "allowing",
+      "pro-myanmar",
+      "military",
+      "propaganda",
+      "page",
+      "to",
+      "advertise",
+      "their",
+      "algorithm",
+      "is",
+      "super",
+      "quick",
+      "to",
+      "detect",
+      "foul",
+      "words",
+      "we",
+      "u…"
+    ],
+    "words": [
+      "foul",
+      "super",
+      "propaganda"
+    ],
+    "positive": [
+      "super"
+    ],
+    "negative": [
+      "foul",
+      "propaganda"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.11764705882352941,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "please": 1
+      },
+      {
+        "hacked": -1
+      }
+    ],
+    "tokens": [
+      "my",
+      "account",
+      "was",
+      "hacked",
+      "and",
+      "the",
+      "recovery",
+      "details",
+      "were",
+      "also",
+      "changed",
+      "please",
+      "help",
+      "to",
+      "recover",
+      "my",
+      "account"
+    ],
+    "words": [
+      "help",
+      "please",
+      "hacked"
+    ],
+    "positive": [
+      "help",
+      "please"
+    ],
+    "negative": [
+      "hacked"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.13333333333333333,
+    "calculation": [
+      {
+        "improved": 2
+      }
+    ],
+    "tokens": [
+      "findings",
+      "of",
+      "the",
+      "first",
+      "regional",
+      "study",
+      "show",
+      "that",
+      "despite",
+      "improved",
+      "content",
+      "standards",
+      "the",
+      "platform",
+      "is…"
+    ],
+    "words": [
+      "improved"
+    ],
+    "positive": [
+      "improved"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "strongly",
+      "recommend",
+      "andrianhacker2",
+      "on",
+      "instagram",
+      "t…"
+    ],
+    "words": [
+      "recommend"
+    ],
+    "positive": [
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "recommended": 2
+      },
+      {
+        "help": 2
+      },
+      {
+        "hacked": -1
+      }
+    ],
+    "tokens": [
+      "i",
+      "was",
+      "able",
+      "to",
+      "recover",
+      "my",
+      "hacked",
+      "account",
+      "with",
+      "the",
+      "help",
+      "of",
+      "contact",
+      "him",
+      "he",
+      "is",
+      "highly",
+      "recommended"
+    ],
+    "words": [
+      "recommended",
+      "help",
+      "hacked"
+    ],
+    "positive": [
+      "recommended",
+      "help"
+    ],
+    "negative": [
+      "hacked"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "strongly",
+      "recommend",
+      "andrianhacke…"
+    ],
+    "words": [
+      "recommend"
+    ],
+    "positive": [
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1111111111111111,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "please": 1
+      },
+      {
+        "hacked": -1
+      }
+    ],
+    "tokens": [
+      "my",
+      "account",
+      "was",
+      "hacked",
+      "and",
+      "the",
+      "recovery",
+      "details",
+      "were",
+      "also",
+      "changed",
+      "please",
+      "help",
+      "to",
+      "recover",
+      "my",
+      "account",
+      "…"
+    ],
+    "words": [
+      "help",
+      "please",
+      "hacked"
+    ],
+    "positive": [
+      "help",
+      "please"
+    ],
+    "negative": [
+      "hacked"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.13333333333333333,
+    "calculation": [
+      {
+        "liked": 2
+      }
+    ],
+    "tokens": [
+      "most",
+      "liked",
+      "current",
+      "profile",
+      "pictures",
+      "by",
+      "female",
+      "artists",
+      "on",
+      "—",
+      "2",
+      "2m2",
+      "—",
+      "1",
+      "7…"
+    ],
+    "words": [
+      "liked"
+    ],
+    "positive": [
+      "liked"
+    ],
+    "negative": []
+  },
+  {
+    "score": -5,
+    "comparative": -0.23809523809523808,
+    "calculation": [
+      {
+        "error": -2
+      },
+      {
+        "hacked": -1
+      },
+      {
+        "error": -2
+      }
+    ],
+    "tokens": [
+      "hi",
+      "what",
+      "should",
+      "i",
+      "do",
+      "whit",
+      "this",
+      "error",
+      "my",
+      "facebook",
+      "account",
+      "hacked",
+      "by",
+      "someone",
+      "and",
+      "giving",
+      "following",
+      "error",
+      "i",
+      "really",
+      "don…"
+    ],
+    "words": [
+      "error",
+      "hacked",
+      "error"
+    ],
+    "positive": [],
+    "negative": [
+      "error",
+      "hacked",
+      "error"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": -5,
+    "comparative": -0.2631578947368421,
+    "calculation": [
+      {
+        "error": -2
+      },
+      {
+        "hacked": -1
+      },
+      {
+        "error": -2
+      }
+    ],
+    "tokens": [
+      "hi",
+      "what",
+      "should",
+      "i",
+      "do",
+      "with",
+      "this",
+      "error",
+      "my",
+      "facebook",
+      "account",
+      "hacked",
+      "by",
+      "someone",
+      "and",
+      "giving",
+      "following",
+      "error",
+      "i…"
+    ],
+    "words": [
+      "error",
+      "hacked",
+      "error"
+    ],
+    "positive": [],
+    "negative": [
+      "error",
+      "hacked",
+      "error"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 1.5,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "please",
+      "help"
+    ],
+    "words": [
+      "help",
+      "please"
+    ],
+    "positive": [
+      "help",
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "😔": -1
+      },
+      {
+        "thank": 2
+      }
+    ],
+    "tokens": [
+      "thank",
+      "you",
+      "my",
+      "insta",
+      "is",
+      "same",
+      "😔",
+      "😔😔",
+      "i",
+      "can't",
+      "sign",
+      "like",
+      "facebook",
+      "i",
+      "will",
+      "ask",
+      "my",
+      "friends"
+    ],
+    "words": [
+      "like",
+      "😔",
+      "thank"
+    ],
+    "positive": [
+      "like",
+      "thank"
+    ],
+    "negative": [
+      "😔"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "😔": -1
+      },
+      {
+        "thank": 2
+      }
+    ],
+    "tokens": [
+      "thank",
+      "you",
+      "my",
+      "insta",
+      "is",
+      "same",
+      "😔",
+      "😔😔",
+      "i",
+      "can't",
+      "sign",
+      "like",
+      "facebook"
+    ],
+    "words": [
+      "like",
+      "😔",
+      "thank"
+    ],
+    "positive": [
+      "like",
+      "thank"
+    ],
+    "negative": [
+      "😔"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05263157894736842,
+    "calculation": [
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "india’s",
+      "team",
+      "must",
+      "desist",
+      "from",
+      "acting",
+      "as",
+      "political",
+      "veritable",
+      "arm",
+      "of",
+      "bjp",
+      "by",
+      "considerably",
+      "reducing",
+      "the",
+      "reach",
+      "of",
+      "fb…"
+    ],
+    "words": [
+      "reach"
+    ],
+    "positive": [
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "recommend",
+      "charles",
+      "help1",
+      "on",
+      "instagram",
+      "he",
+      "can",
+      "help",
+      "you",
+      "get",
+      "your",
+      "account",
+      "back"
+    ],
+    "words": [
+      "help",
+      "recommend"
+    ],
+    "positive": [
+      "help",
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.05263157894736842,
+    "calculation": [
+      {
+        "false": -1
+      }
+    ],
+    "tokens": [
+      "so",
+      "according",
+      "10",
+      "million",
+      "participants",
+      "study",
+      "in",
+      "nature",
+      "is",
+      "a",
+      "false",
+      "information",
+      "so",
+      "make",
+      "it",
+      "viral",
+      "and",
+      "tell",
+      "face…"
+    ],
+    "words": [
+      "false"
+    ],
+    "positive": [],
+    "negative": [
+      "false"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.2,
+    "calculation": [
+      {
+        "hacked": -1
+      },
+      {
+        "help": 2
+      },
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "strongly",
+      "recommend",
+      "andrianhacker2",
+      "on",
+      "instagram",
+      "to",
+      "help",
+      "you",
+      "recover",
+      "unlock",
+      "hacked",
+      "your",
+      "account",
+      "immediately"
+    ],
+    "words": [
+      "hacked",
+      "help",
+      "recommend"
+    ],
+    "positive": [
+      "help",
+      "recommend"
+    ],
+    "negative": [
+      "hacked"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "strongly",
+      "recommend",
+      "andrianhacker2",
+      "on",
+      "instagram",
+      "to",
+      "help",
+      "you",
+      "recover",
+      "unlock",
+      "h…"
+    ],
+    "words": [
+      "help",
+      "recommend"
+    ],
+    "positive": [
+      "help",
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "strongly",
+      "recommend",
+      "andrianhacker2",
+      "on",
+      "instagr…"
+    ],
+    "words": [
+      "recommend"
+    ],
+    "positive": [
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "recommend",
+      "charles",
+      "help1",
+      "on",
+      "instagram",
+      "he",
+      "can",
+      "help",
+      "you",
+      "get",
+      "your",
+      "account",
+      "back"
+    ],
+    "words": [
+      "help",
+      "recommend"
+    ],
+    "positive": [
+      "help",
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "successfully": 3
+      },
+      {
+        "recommended": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "was",
+      "recommended",
+      "to",
+      "some",
+      "dude",
+      "on",
+      "instagram",
+      "he",
+      "was",
+      "able",
+      "to",
+      "successfully",
+      "regain",
+      "a…"
+    ],
+    "words": [
+      "successfully",
+      "recommended"
+    ],
+    "positive": [
+      "successfully",
+      "recommended"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.375,
+    "calculation": [
+      {
+        "solved": 1
+      },
+      {
+        "help": 2
+      }
+    ],
+    "tokens": [
+      "dm",
+      "asap",
+      "he",
+      "help",
+      "me",
+      "solved",
+      "my",
+      "probl…"
+    ],
+    "words": [
+      "solved",
+      "help"
+    ],
+    "positive": [
+      "solved",
+      "help"
+    ],
+    "negative": []
+  },
+  {
+    "score": -5,
+    "comparative": -0.3333333333333333,
+    "calculation": [
+      {
+        "propaganda": -2
+      },
+      {
+        "fake": -3
+      }
+    ],
+    "tokens": [
+      "or",
+      "or",
+      "etc",
+      "how",
+      "can",
+      "they",
+      "control",
+      "spread",
+      "of",
+      "disinformation",
+      "fake",
+      "news",
+      "amp",
+      "propaganda",
+      "campa…"
+    ],
+    "words": [
+      "propaganda",
+      "fake"
+    ],
+    "positive": [],
+    "negative": [
+      "propaganda",
+      "fake"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.038461538461538464,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "did",
+      "you",
+      "know",
+      "we",
+      "are",
+      "not",
+      "just",
+      "on",
+      "twitter",
+      "want",
+      "to",
+      "know",
+      "or",
+      "see",
+      "more",
+      "about",
+      "what",
+      "we",
+      "do",
+      "and",
+      "who",
+      "we",
+      "are",
+      "you",
+      "can",
+      "fi…"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": -5,
+    "comparative": -0.2631578947368421,
+    "calculation": [
+      {
+        "error": -2
+      },
+      {
+        "hacked": -1
+      },
+      {
+        "error": -2
+      }
+    ],
+    "tokens": [
+      "hi",
+      "what",
+      "should",
+      "i",
+      "do",
+      "with",
+      "this",
+      "error",
+      "my",
+      "facebook",
+      "account",
+      "hacked",
+      "by",
+      "someone",
+      "and",
+      "giving",
+      "following",
+      "error",
+      "i…"
+    ],
+    "words": [
+      "error",
+      "hacked",
+      "error"
+    ],
+    "positive": [],
+    "negative": [
+      "error",
+      "hacked",
+      "error"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.05,
+    "calculation": [
+      {
+        "ban": -2
+      },
+      {
+        "join": 1
+      }
+    ],
+    "tokens": [
+      "join",
+      "us",
+      "today",
+      "as",
+      "i",
+      "moderate",
+      "panel",
+      "on",
+      "targeted",
+      "advertising",
+      "and",
+      "is",
+      "a",
+      "ban",
+      "a",
+      "behavioral",
+      "advertising",
+      "likely",
+      "to",
+      "be…"
+    ],
+    "words": [
+      "ban",
+      "join"
+    ],
+    "positive": [
+      "join"
+    ],
+    "negative": [
+      "ban"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.2222222222222222,
+    "calculation": [
+      {
+        "safer": 2
+      },
+      {
+        "support": 2
+      }
+    ],
+    "tokens": [
+      "with",
+      "support",
+      "from",
+      "we",
+      "researched",
+      "ways",
+      "to",
+      "make",
+      "digital",
+      "spaces",
+      "safer",
+      "for",
+      "users",
+      "in",
+      "conflict-affected",
+      "areas",
+      "talking",
+      "di…"
+    ],
+    "words": [
+      "safer",
+      "support"
+    ],
+    "positive": [
+      "safer",
+      "support"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "recommend": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "recommend",
+      "charles",
+      "help1",
+      "on",
+      "instagram",
+      "he",
+      "can",
+      "help",
+      "you",
+      "get",
+      "your",
+      "account",
+      "back"
+    ],
+    "words": [
+      "help",
+      "recommend"
+    ],
+    "positive": [
+      "help",
+      "recommend"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.05263157894736842,
+    "calculation": [
+      {
+        "false": -1
+      }
+    ],
+    "tokens": [
+      "so",
+      "according",
+      "10",
+      "million",
+      "participants",
+      "study",
+      "in",
+      "nature",
+      "is",
+      "a",
+      "false",
+      "information",
+      "so",
+      "make",
+      "it",
+      "viral",
+      "and",
+      "tell",
+      "face…"
+    ],
+    "words": [
+      "false"
+    ],
+    "positive": [],
+    "negative": [
+      "false"
+    ]
+  }
+]

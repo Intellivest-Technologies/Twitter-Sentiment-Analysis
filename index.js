@@ -1,115 +1,58 @@
 const request = require('request')
 var Sentiment = require('sentiment')
 const fs = require('fs')
-
+var symbols = ['TSLA', 'DIS', 'AVID', 'FB', 'AMZN', 'AAL', 'COIN', 'UBER', 'CCL', 'F']
 // twitter handles
 var handles = {
-   TSLA: 'tesla',
    DIS: 'disney',
    AVID: 'Avid',
    FB: 'Facebook',
    AMZN: 'Amazon',
    AAPL: 'Apple',
    AAL: 'AmericanAir',
+   TSLA: 'elonmusk',
    COIN: 'coinbase',
    UBER: 'uber',
    CCL: 'CarnivalCruise',
    F: 'ford'
 }
 
-var symbol// = 'TSLA'
 
-process.argv.forEach(function (val, index, array) { symbol = val })
-
-// what to search for
-var searchString = '$' + symbol + handles[symbol] ? ' @' + handles[symbol] : ""
-
-const options = {
-   url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=100&result_type=recent&include_entities=1',
-   headers: {
-      'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAJBD%2BQAAAAAABouyxmfwLPWWvLr9FwE7JTF0IG4%3DAxdWOjcl5xInwjuMMTAqR8jIFN9XHyPYjALUESpMIYs5SNYF2s'
-   }
-}
+process.argv.forEach(function (val, index, array) {
+   if (val == 'TEST') testMultiple()
+   else testOne(val)
+})
 
 // add custom word ratings
 var sentimentOptions = {
    extras: {
-      '💀': -4,
+      '💀': -3,
       '🤩': 5,
       '😅': -2,
       '😭': 2,
       '😝': -2,
-      '🤡': -5,
-      '🤬': -5,
-      '😡': -3,
+      '🤡': -3,
+      '🤬': -1,
+      '😡': -1,
       '💩': -2,
-      '🚀': 5,
+      '🚀': 3,
       '💯': 5,
-      '❤️': 5,
+      '❤️': 3,
       '❌': -3,
       '💲': 3,
       '✔️': 3,
       '💰': 4,
       '🔑': 2,
       '🏆': 4,
-      '🥇': 4
+      '🥇': 4,
+      '👀': 1,
+      '✨': 2,
+      '🎉': 2,
+      '💖': 2,
+      '⭐': 2,
+      '🚨': 1,
+      '💎': 3
    }
-}
-
-function callback(error, response, body) {
-   if (!error && response.statusCode == 200) {
-      var arr = JSON.parse(body).statuses
-      var tweets = arr.reduce((r, i) => !r.some(j => !Object.keys(i).some(k => i[k] !== j[k])) ? [...r, i] : r, [])
-      var allSentiment = []
-      var allRatings = []
-      tweets = arr.map(function (e) {
-         var t = e.text.replace(/\n|\r/g, "").replace(/(?:https?|ftp):\/\/[\n\S]+/g, '').replace(/\@[^\s]*/g, "").replace(/\$[^\s]*/g, "").replace(/\#[^\s]*/g, "").replace('RT', '').replace('NEW', '').replace('//   // ', '').replace('- ', '').trim()
-         t = replaceEmojis(t)
-         var result = new Sentiment().analyze(t, sentimentOptions)
-         allSentiment.push(result)
-
-         if (result.comparative != 0)
-            allRatings.push(result.comparative)
-         return {
-            likes: e.favorite_count,
-            shares: e.retweet_count,
-            content: t,
-            score: result.score,
-            comparative: result.comparative
-         }
-      })
-
-      // log the total average
-      console.log(avg(allRatings))
-      // remove duplicate tweets
-      var tweets1 = tweets.reduce((r, i) => !r.some(j => !Object.keys(i).some(k => i[k] !== j[k])) ? [...r, i] : r, [])
-
-      // overview of each tweet's rating
-      fs.writeFile("./data.csv", CSV(tweets1))
-
-      // full breakdown of logic behind rating
-      fs.writeFile("./logic.csv", JSON.stringify(allSentiment, null, 2))
-   }
-}
-
-request(options, callback)
-
-// helpers
-
-// format array of objects to CSV
-function CSV(array) {
-   var keys = Object.keys(array[0])
-   var result = keys.join("\t") + "\n"
-   array.forEach(function (obj) { result += keys.map(k => obj[k]).join("\t") + "\n"; })
-   return result
-}
-
-// average from array
-function avg(e) {
-   var total = 0
-   for (var i = 0; i < e.length; i++) { total += e[i] }
-   var avg = total / e.length
-   return avg
 }
 
 // a fix to make emojis detectable (adds spaces surrounding each emoji)
@@ -129,4 +72,101 @@ const replaceEmojis = function (string) {
       string = string.replace(emoji, " " + emoji + " ")
    })
    return string
+}
+function callback(error, response, body, symbol) {
+   if (!error && response.statusCode == 200) {
+      var arr = JSON.parse(body).statuses
+      var tweets = arr.reduce((r, i) => !r.some(j => !Object.keys(i).some(k => i[k] !== j[k])) ? [...r, i] : r, [])
+      var logic = []
+      var ratings = []
+      tweets = arr.map(function (e) {
+
+         //if(e.text.includes('RT @')) return ""
+
+         var t = e.text.replace(/\n|\r/g, "").replace(/(?:https?|ftp):\/\/[\n\S]+/g, '').replace(/\@[^\s]*/g, "").replace(/\$[^\s]*/g, "").replace(/\#[^\s]*/g, "").replace('RT', '').replace('NEW', '').replace('//   // ', '').replace('- ', '').trim()
+         t = replaceEmojis(t)
+         var result = new Sentiment().analyze(t, sentimentOptions)
+
+         if (result.comparative != 0 && !t.includes('undefined')) {
+            ratings.push(result.comparative)
+            logic.push(result)
+
+
+         }
+
+         return {
+            comparative: result.comparative.toFixed(3),
+            score: result.score,
+            content: t,
+            engagement: e.favorite_count + e.retweet_count,
+            //location:e.user.location,
+            //user:e.user.screen_name,
+            //influence:e.user.followers_count
+         }
+
+      })
+
+      // log the total average
+      console.log('Score: ' + avg(ratings))
+
+      // remove duplicate tweets & tweets that score 0 sentiment
+      var data = tweets.filter(function (e) {
+         return (e.comparative != 0) ? e : null;
+      }).reduce((r, i) => !r.some(j => !Object.keys(i).some(k => i[k] !== j[k])) ? [...r, i] : r, []);
+
+      // overview of each tweet's rating
+      fs.writeFile("./results/data/" + symbol + ".csv", CSV(data), (err) => { console.log(data) });
+
+      // full breakdown of logic behind rating
+      fs.writeFile("./results/logic/" + symbol + ".csv", JSON.stringify(logic, null, 2), (err) => { console.log(err) });
+   }
+}
+
+function testOne(e) {
+   var symbol = e
+   var searchString = '$' + symbol + handles[symbol] ? ' @' + handles[symbol] : ""
+   const options = {
+      url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=30&result_type=recent&include_entities=1',
+      headers: {
+         'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAJBD%2BQAAAAAABouyxmfwLPWWvLr9FwE7JTF0IG4%3DAxdWOjcl5xInwjuMMTAqR8jIFN9XHyPYjALUESpMIYs5SNYF2s'
+      }
+   }
+   function requestWithSymbol(error, response, body) {
+      callback(error, response, body, symbol)
+   };
+   request(options, requestWithSymbol)
+}
+
+function testMultiple() {
+   for (let i = 0; i < symbols.length; i++) {
+      function requestWithSymbol(error, response, body) {
+         callback(error, response, body, symbols[i])
+      };
+      var symbol = symbols[i]
+      var searchString = '$' + symbol + handles[symbol] ? ' @' + handles[symbol] : ""
+      const options = {
+         url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=100&result_type=recent&include_entities=1',
+         headers: {
+            'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAJBD%2BQAAAAAABouyxmfwLPWWvLr9FwE7JTF0IG4%3DAxdWOjcl5xInwjuMMTAqR8jIFN9XHyPYjALUESpMIYs5SNYF2s'
+         }
+      }
+      request(options, requestWithSymbol)
+   }
+}
+// helpers
+
+// format array of objects to CSV
+function CSV(array) {
+   var keys = Object.keys(array[0])
+   var result = keys.join("\t") + "\n"
+   array.forEach(function (obj) { result += keys.map(k => obj[k]).join("\t") + "\n"; })
+   return result
+}
+
+// average from array
+function avg(e) {
+   var total = 0
+   for (var i = 0; i < e.length; i++) { total += e[i] }
+   var avg = total / e.length
+   return avg
 }

@@ -1,0 +1,472 @@
+[
+  {
+    "score": 4,
+    "comparative": 0.3076923076923077,
+    "calculation": [
+      {
+        "spirit": 1
+      },
+      {
+        "lovable": 3
+      }
+    ],
+    "tokens": [
+      "meet",
+      "milk",
+      "lovable",
+      "long",
+      "snapper",
+      "michael",
+      "vinson",
+      "embodies",
+      "notre",
+      "dame's",
+      "walk-on",
+      "spirit",
+      "via"
+    ],
+    "words": [
+      "spirit",
+      "lovable"
+    ],
+    "positive": [
+      "spirit",
+      "lovable"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.3,
+    "calculation": [
+      {
+        "🐏": 3
+      },
+      {
+        "celebration": 3
+      }
+    ],
+    "tokens": [
+      "on",
+      "2-3",
+      "october",
+      "we're",
+      "hosting",
+      "a",
+      "celebration",
+      "of",
+      "wool",
+      "🐏",
+      "with",
+      "a",
+      "line",
+      "up",
+      "including",
+      "crafternoon",
+      "launch",
+      "of",
+      "the",
+      "national…"
+    ],
+    "words": [
+      "🐏",
+      "celebration"
+    ],
+    "positive": [
+      "🐏",
+      "celebration"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 3,
+    "calculation": [
+      {
+        "beautiful": 3
+      }
+    ],
+    "tokens": [
+      "beautiful"
+    ],
+    "words": [
+      "beautiful"
+    ],
+    "positive": [
+      "beautiful"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "win": 4
+      }
+    ],
+    "tokens": [
+      "shadix",
+      "accounts",
+      "for",
+      "six",
+      "touchdowns",
+      "and",
+      "300",
+      "yards",
+      "as",
+      "bronson",
+      "takes",
+      "shootout",
+      "win",
+      "over",
+      "springport",
+      "via"
+    ],
+    "words": [
+      "win"
+    ],
+    "positive": [
+      "win"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.15789473684210525,
+    "calculation": [
+      {
+        "✨": 2
+      },
+      {
+        "🐵": 2
+      },
+      {
+        "👀": 1
+      },
+      {
+        "➗": -3
+      },
+      {
+        "🍬": 1
+      }
+    ],
+    "tokens": [
+      "unboxing",
+      "kuku",
+      "candy",
+      "🍬",
+      "+",
+      "matico",
+      "➗",
+      "+",
+      "fast",
+      "check",
+      "👀",
+      "+animal",
+      "parrry",
+      "🐵",
+      "mercurio",
+      "distribuciones",
+      "✨",
+      "novedades✨",
+      "via"
+    ],
+    "words": [
+      "✨",
+      "🐵",
+      "👀",
+      "➗",
+      "🍬"
+    ],
+    "positive": [
+      "✨",
+      "🐵",
+      "👀",
+      "🍬"
+    ],
+    "negative": [
+      "➗"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 1,
+    "calculation": [
+      {
+        "💖": 2
+      },
+      {
+        "thank": 2
+      }
+    ],
+    "tokens": [
+      "thank",
+      "you",
+      "for",
+      "💖"
+    ],
+    "words": [
+      "💖",
+      "thank"
+    ],
+    "positive": [
+      "💖",
+      "thank"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 1,
+    "calculation": [
+      {
+        "💖": 2
+      },
+      {
+        "thank": 2
+      }
+    ],
+    "tokens": [
+      "thank",
+      "you",
+      "for",
+      "💖"
+    ],
+    "words": [
+      "💖",
+      "thank"
+    ],
+    "positive": [
+      "💖",
+      "thank"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.11764705882352941,
+    "calculation": [
+      {
+        "⭐": 2
+      }
+    ],
+    "tokens": [
+      "⭐",
+      "️informe",
+      "warhammer",
+      "40k",
+      "trailer",
+      "⭐️grey",
+      "knights",
+      "new",
+      "vs",
+      "space",
+      "wolves",
+      "fuerza",
+      "de",
+      "choque",
+      "2",
+      "000pts",
+      "via"
+    ],
+    "words": [
+      "⭐"
+    ],
+    "positive": [
+      "⭐"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.3,
+    "calculation": [
+      {
+        "🐏": 3
+      },
+      {
+        "celebration": 3
+      }
+    ],
+    "tokens": [
+      "on",
+      "2-3",
+      "october",
+      "we're",
+      "hosting",
+      "a",
+      "celebration",
+      "of",
+      "wool",
+      "🐏",
+      "with",
+      "a",
+      "line",
+      "up",
+      "including",
+      "crafternoon",
+      "launch",
+      "of",
+      "the",
+      "national…"
+    ],
+    "words": [
+      "🐏",
+      "celebration"
+    ],
+    "positive": [
+      "🐏",
+      "celebration"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.25,
+    "calculation": [
+      {
+        "bad": -3
+      }
+    ],
+    "tokens": [
+      "as",
+      "bad",
+      "as",
+      "things",
+      "got",
+      "in",
+      "january",
+      "it",
+      "is",
+      "about",
+      "to",
+      "get…"
+    ],
+    "words": [
+      "bad"
+    ],
+    "positive": [],
+    "negative": [
+      "bad"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3181818181818182,
+    "calculation": [
+      {
+        "sunshine": 2
+      },
+      {
+        "enjoy": 2
+      },
+      {
+        "great": 3
+      }
+    ],
+    "tokens": [
+      "picnics",
+      "are",
+      "a",
+      "great",
+      "way",
+      "for",
+      "friends",
+      "to",
+      "catch",
+      "up",
+      "as",
+      "summer",
+      "approaches",
+      "get",
+      "out",
+      "there",
+      "and",
+      "enjoy",
+      "the",
+      "sunshine",
+      "with",
+      "you…"
+    ],
+    "words": [
+      "sunshine",
+      "enjoy",
+      "great"
+    ],
+    "positive": [
+      "sunshine",
+      "enjoy",
+      "great"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "🎉": 2
+      },
+      {
+        "shared": 1
+      }
+    ],
+    "tokens": [
+      "our",
+      "latest",
+      "survey",
+      "results",
+      "have",
+      "been",
+      "shared",
+      "by",
+      "🎉",
+      "we",
+      "found",
+      "almost",
+      "half",
+      "of",
+      "software",
+      "professionals",
+      "were",
+      "appr…"
+    ],
+    "words": [
+      "🎉",
+      "shared"
+    ],
+    "positive": [
+      "🎉",
+      "shared"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.3333333333333333,
+    "calculation": [
+      {
+        "crisis": -3
+      }
+    ],
+    "tokens": [
+      "condition",
+      "critical",
+      "covid",
+      "deepens",
+      "georgia's",
+      "nursing",
+      "crisis",
+      "via",
+      "cc"
+    ],
+    "words": [
+      "crisis"
+    ],
+    "positive": [],
+    "negative": [
+      "crisis"
+    ]
+  }
+]

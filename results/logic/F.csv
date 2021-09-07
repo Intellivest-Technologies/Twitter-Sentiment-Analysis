@@ -1,0 +1,2275 @@
+[
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.17647058823529413,
+    "calculation": [
+      {
+        "lol": 3
+      }
+    ],
+    "tokens": [
+      "you",
+      "must",
+      "of",
+      "not",
+      "watch",
+      "the",
+      "video",
+      "if",
+      "the",
+      "was",
+      "glued",
+      "to",
+      "ground",
+      "you",
+      "be",
+      "right",
+      "lol"
+    ],
+    "words": [
+      "lol"
+    ],
+    "positive": [
+      "lol"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "😂": 1
+      },
+      {
+        "no": -1
+      },
+      {
+        "hope": 2
+      }
+    ],
+    "tokens": [
+      "on",
+      "the",
+      "canyons",
+      "and",
+      "the",
+      "yeet",
+      "myself",
+      "from",
+      "them",
+      "hope",
+      "we",
+      "can",
+      "do",
+      "that",
+      "and",
+      "there's",
+      "no",
+      "invisible",
+      "walls",
+      "😂"
+    ],
+    "words": [
+      "😂",
+      "no",
+      "hope"
+    ],
+    "positive": [
+      "😂",
+      "hope"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "yes": 1
+      }
+    ],
+    "tokens": [
+      "yes",
+      "and"
+    ],
+    "words": [
+      "yes"
+    ],
+    "positive": [
+      "yes"
+    ],
+    "negative": []
+  },
+  {
+    "score": -6,
+    "comparative": -0.35294117647058826,
+    "calculation": [
+      {
+        "fucking": -4
+      },
+      {
+        "stuck": -2
+      }
+    ],
+    "tokens": [
+      "so",
+      "i",
+      "imagine",
+      "we",
+      "are",
+      "stuck",
+      "again",
+      "with",
+      "those",
+      "fucking",
+      "cross-country",
+      "races",
+      "on",
+      "the",
+      "ranked",
+      "playlist",
+      "e…"
+    ],
+    "words": [
+      "fucking",
+      "stuck"
+    ],
+    "positive": [],
+    "negative": [
+      "fucking",
+      "stuck"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.13043478260869565,
+    "calculation": [
+      {
+        "pay": -1
+      },
+      {
+        "poorly": -2
+      }
+    ],
+    "tokens": [
+      "so",
+      "what",
+      "i've",
+      "learned",
+      "about",
+      "tesla",
+      "cars",
+      "in",
+      "the",
+      "last",
+      "two",
+      "days",
+      "is",
+      "they're",
+      "poorly",
+      "assembled",
+      "you",
+      "have",
+      "to",
+      "pay",
+      "thousands",
+      "extra",
+      "f…"
+    ],
+    "words": [
+      "pay",
+      "poorly"
+    ],
+    "positive": [],
+    "negative": [
+      "pay",
+      "poorly"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.5,
+    "calculation": [
+      {
+        "evil": -3
+      }
+    ],
+    "tokens": [
+      "evil",
+      "way",
+      "🤘",
+      "🔥",
+      "available",
+      "on"
+    ],
+    "words": [
+      "evil"
+    ],
+    "positive": [],
+    "negative": [
+      "evil"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.5,
+    "calculation": [
+      {
+        "evil": -3
+      }
+    ],
+    "tokens": [
+      "evil",
+      "way",
+      "🤘",
+      "🔥",
+      "available",
+      "on"
+    ],
+    "words": [
+      "evil"
+    ],
+    "positive": [],
+    "negative": [
+      "evil"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.42857142857142855,
+    "calculation": [
+      {
+        "fraud": -4
+      },
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "please",
+      "tell",
+      "me",
+      "this",
+      "is",
+      "phishing",
+      "fraud"
+    ],
+    "words": [
+      "fraud",
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": [
+      "fraud"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "no": -1
+      },
+      {
+        "interesting": 2
+      }
+    ],
+    "tokens": [
+      "interesting",
+      "no",
+      "issues",
+      "or",
+      "concerns",
+      "about",
+      "the",
+      "hv",
+      "battery",
+      "pack"
+    ],
+    "words": [
+      "no",
+      "interesting"
+    ],
+    "positive": [
+      "interesting"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.7777777777777778,
+    "calculation": [
+      {
+        "👍": 2
+      },
+      {
+        "bad": 3
+      },
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "it",
+      "almost",
+      "looks",
+      "like",
+      "a",
+      "ferrari",
+      "not",
+      "bad",
+      "👍"
+    ],
+    "words": [
+      "👍",
+      "bad",
+      "like"
+    ],
+    "positive": [
+      "👍",
+      "bad",
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.0625,
+    "calculation": [
+      {
+        "underestimated": -1
+      }
+    ],
+    "tokens": [
+      "the",
+      "chief",
+      "engineer",
+      "of",
+      "the",
+      "all-electric",
+      "f-150",
+      "lightning",
+      "cannot",
+      "and",
+      "should",
+      "not",
+      "be",
+      "underestimated",
+      "https",
+      "…"
+    ],
+    "words": [
+      "underestimated"
+    ],
+    "positive": [],
+    "negative": [
+      "underestimated"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.0625,
+    "calculation": [
+      {
+        "underestimated": -1
+      }
+    ],
+    "tokens": [
+      "the",
+      "chief",
+      "engineer",
+      "of",
+      "the",
+      "all-electric",
+      "f-150",
+      "lightning",
+      "cannot",
+      "and",
+      "should",
+      "not",
+      "be",
+      "underestimated",
+      "https",
+      "…"
+    ],
+    "words": [
+      "underestimated"
+    ],
+    "positive": [],
+    "negative": [
+      "underestimated"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.0625,
+    "calculation": [
+      {
+        "underestimated": -1
+      }
+    ],
+    "tokens": [
+      "the",
+      "chief",
+      "engineer",
+      "of",
+      "the",
+      "all-electric",
+      "f-150",
+      "lightning",
+      "cannot",
+      "and",
+      "should",
+      "not",
+      "be",
+      "underestimated",
+      "https",
+      "…"
+    ],
+    "words": [
+      "underestimated"
+    ],
+    "positive": [],
+    "negative": [
+      "underestimated"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.09090909090909091,
+    "calculation": [
+      {
+        "free": 1
+      }
+    ],
+    "tokens": [
+      "never",
+      "can",
+      "be",
+      "a",
+      "free",
+      "market",
+      "so",
+      "long",
+      "as",
+      "govt",
+      "…"
+    ],
+    "words": [
+      "free"
+    ],
+    "positive": [
+      "free"
+    ],
+    "negative": []
+  },
+  {
+    "score": 8,
+    "comparative": 0.38095238095238093,
+    "calculation": [
+      {
+        "welcome": 2
+      },
+      {
+        "pleasure": 3
+      },
+      {
+        "good": 3
+      }
+    ],
+    "tokens": [
+      "had",
+      "to",
+      "say",
+      "good",
+      "bye",
+      "to",
+      "my",
+      "ford",
+      "ikon",
+      "with",
+      "a",
+      "heavy",
+      "heart",
+      "however",
+      "it’s",
+      "a",
+      "pleasure",
+      "to",
+      "welcome",
+      "home",
+      "my…"
+    ],
+    "words": [
+      "welcome",
+      "pleasure",
+      "good"
+    ],
+    "positive": [
+      "welcome",
+      "pleasure",
+      "good"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.07142857142857142,
+    "calculation": [
+      {
+        "underestimated": -1
+      }
+    ],
+    "tokens": [
+      "the",
+      "chief",
+      "engineer",
+      "of",
+      "the",
+      "all-electric",
+      "f-150",
+      "lightning",
+      "cannot",
+      "and",
+      "should",
+      "not",
+      "be",
+      "underestimated"
+    ],
+    "words": [
+      "underestimated"
+    ],
+    "positive": [],
+    "negative": [
+      "underestimated"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.06666666666666667,
+    "calculation": [
+      {
+        "certain": 1
+      }
+    ],
+    "tokens": [
+      "certain",
+      "news",
+      "agencies",
+      "blog",
+      "are",
+      "speculating",
+      "and",
+      "writting",
+      "about",
+      "ford",
+      "to",
+      "shutdown",
+      "operation",
+      "in",
+      "india…"
+    ],
+    "words": [
+      "certain"
+    ],
+    "positive": [
+      "certain"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.3125,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "please": 1
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "please",
+      "make",
+      "these",
+      "in",
+      "rhd",
+      "and",
+      "send",
+      "them",
+      "to",
+      "australia",
+      "a",
+      "little",
+      "help",
+      "with",
+      "this"
+    ],
+    "words": [
+      "help",
+      "please",
+      "dear"
+    ],
+    "positive": [
+      "help",
+      "please",
+      "dear"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.3333333333333333,
+    "calculation": [
+      {
+        "poorest": -2
+      }
+    ],
+    "tokens": [
+      "extreme",
+      "poorest",
+      "service",
+      "by",
+      "mr",
+      "nithi…"
+    ],
+    "words": [
+      "poorest"
+    ],
+    "positive": [],
+    "negative": [
+      "poorest"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 10,
+    "comparative": 1.1111111111111112,
+    "calculation": [
+      {
+        "smart": 1
+      },
+      {
+        "love": 3
+      },
+      {
+        "adorable": 3
+      },
+      {
+        "cute": 2
+      },
+      {
+        "yes": 1
+      }
+    ],
+    "tokens": [
+      "yes",
+      "so",
+      "cute",
+      "truly",
+      "adorable",
+      "love",
+      "that",
+      "so",
+      "smart"
+    ],
+    "words": [
+      "smart",
+      "love",
+      "adorable",
+      "cute",
+      "yes"
+    ],
+    "positive": [
+      "smart",
+      "love",
+      "adorable",
+      "cute",
+      "yes"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.1111111111111111,
+    "calculation": [
+      {
+        "big": 1
+      }
+    ],
+    "tokens": [
+      "that’s",
+      "a",
+      "big",
+      "conclusion",
+      "based",
+      "on",
+      "that",
+      "data",
+      "set"
+    ],
+    "words": [
+      "big"
+    ],
+    "positive": [
+      "big"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.11764705882352941,
+    "calculation": [
+      {
+        "top": 2
+      }
+    ],
+    "tokens": [
+      "the",
+      "top",
+      "10",
+      "automakers",
+      "worldwide",
+      "have",
+      "all",
+      "confirmed",
+      "their",
+      "attendance",
+      "at",
+      "the",
+      "fourth",
+      "with",
+      "their",
+      "latest",
+      "produc…"
+    ],
+    "words": [
+      "top"
+    ],
+    "positive": [
+      "top"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.5,
+    "calculation": [
+      {
+        "good": 3
+      },
+      {
+        "yes": 1
+      }
+    ],
+    "tokens": [
+      "ah",
+      "yes",
+      "the",
+      "good",
+      "old",
+      "thunderfowl",
+      "or",
+      "thunderchicken"
+    ],
+    "words": [
+      "good",
+      "yes"
+    ],
+    "positive": [
+      "good",
+      "yes"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.23076923076923078,
+    "calculation": [
+      {
+        "🚀": 3
+      }
+    ],
+    "tokens": [
+      "im",
+      "deff",
+      "planning",
+      "on",
+      "getting",
+      "mine",
+      "1",
+      "of",
+      "these",
+      "xrp",
+      "moon",
+      "days",
+      "🚀"
+    ],
+    "words": [
+      "🚀"
+    ],
+    "positive": [
+      "🚀"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "top": 2
+      }
+    ],
+    "tokens": [
+      "canary",
+      "yellow",
+      "with",
+      "black",
+      "top",
+      "amp",
+      "black",
+      "interior",
+      "then",
+      "a",
+      "burgundy",
+      "i",
+      "o",
+      "and",
+      "a",
+      "baby",
+      "blue",
+      "with",
+      "dark",
+      "b…"
+    ],
+    "words": [
+      "top"
+    ],
+    "positive": [
+      "top"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "friend": 1
+      },
+      {
+        "best": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "drainable",
+      "frunk",
+      "and",
+      "keypad",
+      "entry",
+      "are",
+      "the",
+      "seaside",
+      "weekend",
+      "warrior’s",
+      "new",
+      "best",
+      "friend"
+    ],
+    "words": [
+      "friend",
+      "best"
+    ],
+    "positive": [
+      "friend",
+      "best"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.18181818181818182,
+    "calculation": [
+      {
+        "better": 2
+      }
+    ],
+    "tokens": [
+      "if",
+      "we’re",
+      "going",
+      "to",
+      "mexico",
+      "there",
+      "better",
+      "be",
+      "mexican",
+      "drug",
+      "dealers"
+    ],
+    "words": [
+      "better"
+    ],
+    "positive": [
+      "better"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.06666666666666667,
+    "calculation": [
+      {
+        "desire": 1
+      }
+    ],
+    "tokens": [
+      "my",
+      "desire",
+      "for",
+      "news",
+      "and",
+      "delivery",
+      "of",
+      "the",
+      "lighting",
+      "is",
+      "beyond",
+      "unreasonable",
+      "at",
+      "this",
+      "moment"
+    ],
+    "words": [
+      "desire"
+    ],
+    "positive": [
+      "desire"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "spirit": 1
+      }
+    ],
+    "tokens": [
+      "anything",
+      "is",
+      "possible",
+      "behind",
+      "the",
+      "wheel",
+      "of",
+      "the",
+      "bronco",
+      "from",
+      "off-road",
+      "trails",
+      "to",
+      "vast",
+      "rivers",
+      "the",
+      "untamed",
+      "spirit",
+      "of",
+      "the"
+    ],
+    "words": [
+      "spirit"
+    ],
+    "positive": [
+      "spirit"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "dreams": 1
+      }
+    ],
+    "tokens": [
+      "driving",
+      "the",
+      "gt",
+      "on",
+      "highway",
+      "1",
+      "is",
+      "the",
+      "stuff",
+      "of",
+      "dreams",
+      "by"
+    ],
+    "words": [
+      "dreams"
+    ],
+    "positive": [
+      "dreams"
+    ],
+    "negative": []
+  }
+]

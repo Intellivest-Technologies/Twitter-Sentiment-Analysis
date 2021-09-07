@@ -7,7 +7,7 @@ Uses Twitter Developer API to [search tweets](https://developer.twitter.com/en/d
 ```
 npm install
 ```
-the test different ticker symbols
+test a specific ticker symbol
 ```
 node index TSLA
 ```

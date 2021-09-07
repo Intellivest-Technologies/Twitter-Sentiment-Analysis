@@ -1,0 +1,2897 @@
+[
+  {
+    "score": 2,
+    "comparative": 0.1111111111111111,
+    "calculation": [
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "faced",
+      "the",
+      "same",
+      "issue",
+      "with",
+      "ola",
+      "in",
+      "guwahati",
+      "the",
+      "driver",
+      "was",
+      "like",
+      "we",
+      "get",
+      "too",
+      "less",
+      "a…"
+    ],
+    "words": [
+      "like"
+    ],
+    "positive": [
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.125,
+    "calculation": [
+      {
+        "wtf": -4
+      },
+      {
+        "like": 2
+      },
+      {
+        "demand": -1
+      },
+      {
+        "increased": 1
+      }
+    ],
+    "tokens": [
+      "what",
+      "the",
+      "heck",
+      "is",
+      "going",
+      "with",
+      "everyday",
+      "it's",
+      "fares",
+      "higher",
+      "due",
+      "to",
+      "increased",
+      "demand",
+      "like",
+      "wtf"
+    ],
+    "words": [
+      "wtf",
+      "like",
+      "demand",
+      "increased"
+    ],
+    "positive": [
+      "like",
+      "increased"
+    ],
+    "negative": [
+      "wtf",
+      "demand"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.26666666666666666,
+    "calculation": [
+      {
+        "ban": -2
+      },
+      {
+        "boycotting": -2
+      }
+    ],
+    "tokens": [
+      "we're",
+      "boycotting",
+      "these",
+      "pro-abortion",
+      "companies",
+      "that",
+      "oppose",
+      "the",
+      "texas",
+      "abortion",
+      "ban",
+      "saving",
+      "babies",
+      "-",
+      "-"
+    ],
+    "words": [
+      "ban",
+      "boycotting"
+    ],
+    "positive": [],
+    "negative": [
+      "ban",
+      "boycotting"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.125,
+    "calculation": [
+      {
+        "pay": -1
+      },
+      {
+        "concerned": -2
+      }
+    ],
+    "tokens": [
+      "concerned",
+      "to",
+      "hear",
+      "tonight",
+      "that",
+      "my",
+      "sister",
+      "in",
+      "law",
+      "had",
+      "to",
+      "pay",
+      "£120",
+      "to",
+      "a",
+      "driver",
+      "to",
+      "get",
+      "her",
+      "phone",
+      "back",
+      "which",
+      "she",
+      "acci…"
+    ],
+    "words": [
+      "pay",
+      "concerned"
+    ],
+    "positive": [],
+    "negative": [
+      "pay",
+      "concerned"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "kudos": 3
+      }
+    ],
+    "tokens": [
+      "kudos",
+      "to",
+      "and",
+      "for",
+      "standing",
+      "up",
+      "to",
+      "and",
+      "the"
+    ],
+    "words": [
+      "kudos"
+    ],
+    "positive": [
+      "kudos"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "kudos": 3
+      }
+    ],
+    "tokens": [
+      "kudos",
+      "to",
+      "and",
+      "for",
+      "standing",
+      "up",
+      "to",
+      "and",
+      "the"
+    ],
+    "words": [
+      "kudos"
+    ],
+    "positive": [
+      "kudos"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.09523809523809523,
+    "calculation": [
+      {
+        "fair": 2
+      }
+    ],
+    "tokens": [
+      "hey",
+      "guys",
+      "when",
+      "you",
+      "offer",
+      "the",
+      "service",
+      "of",
+      "booking",
+      "the",
+      "night",
+      "before",
+      "because",
+      "it's",
+      "actually",
+      "a",
+      "fair",
+      "price",
+      "maybe",
+      "don't",
+      "ca…"
+    ],
+    "words": [
+      "fair"
+    ],
+    "positive": [
+      "fair"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "thanks": 2
+      },
+      {
+        "fucking": -4
+      }
+    ],
+    "tokens": [
+      "fucking",
+      "thanks",
+      "now",
+      "i’m",
+      "gonna",
+      "be",
+      "late",
+      "for",
+      "my",
+      "hospital",
+      "appointment",
+      "kmt"
+    ],
+    "words": [
+      "thanks",
+      "fucking"
+    ],
+    "positive": [
+      "thanks"
+    ],
+    "negative": [
+      "fucking"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "kudos": 3
+      }
+    ],
+    "tokens": [
+      "kudos",
+      "to",
+      "and",
+      "for",
+      "standing",
+      "up",
+      "to",
+      "and",
+      "the"
+    ],
+    "words": [
+      "kudos"
+    ],
+    "positive": [
+      "kudos"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.15,
+    "calculation": [
+      {
+        "bad": -3
+      }
+    ],
+    "tokens": [
+      "i",
+      "mostly",
+      "uber",
+      "so",
+      "that",
+      "i",
+      "experienced",
+      "with",
+      "not",
+      "careem",
+      "my",
+      "bad",
+      "but",
+      "the",
+      "girl",
+      "in",
+      "ss",
+      "had",
+      "that",
+      "exp…"
+    ],
+    "words": [
+      "bad"
+    ],
+    "positive": [],
+    "negative": [
+      "bad"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.26666666666666666,
+    "calculation": [
+      {
+        "ban": -2
+      },
+      {
+        "boycotting": -2
+      }
+    ],
+    "tokens": [
+      "we're",
+      "boycotting",
+      "these",
+      "pro-abortion",
+      "companies",
+      "that",
+      "oppose",
+      "the",
+      "texas",
+      "abortion",
+      "ban",
+      "saving",
+      "babies",
+      "-",
+      "-"
+    ],
+    "words": [
+      "ban",
+      "boycotting"
+    ],
+    "positive": [],
+    "negative": [
+      "ban",
+      "boycotting"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.2222222222222222,
+    "calculation": [
+      {
+        "banned": -2
+      }
+    ],
+    "tokens": [
+      "charge",
+      "her",
+      "for",
+      "cleaning",
+      "amp",
+      "banned",
+      "from",
+      "uber",
+      "forever"
+    ],
+    "words": [
+      "banned"
+    ],
+    "positive": [],
+    "negative": [
+      "banned"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -2,
+    "calculation": [
+      {
+        "shit": -4
+      }
+    ],
+    "tokens": [
+      "ur",
+      "shit"
+    ],
+    "words": [
+      "shit"
+    ],
+    "positive": [],
+    "negative": [
+      "shit"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.043478260869565216,
+    "calculation": [
+      {
+        "problem": -2
+      },
+      {
+        "responsible": 2
+      },
+      {
+        "excuse": -1
+      }
+    ],
+    "tokens": [
+      "excuse",
+      "me",
+      "who",
+      "is",
+      "responsible",
+      "of",
+      "answering",
+      "the",
+      "dm",
+      "i",
+      "keep",
+      "saying",
+      "there",
+      "is",
+      "a",
+      "problem",
+      "with",
+      "the",
+      "page",
+      "he",
+      "or",
+      "she",
+      "re…"
+    ],
+    "words": [
+      "problem",
+      "responsible",
+      "excuse"
+    ],
+    "positive": [
+      "responsible"
+    ],
+    "negative": [
+      "problem",
+      "excuse"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.25,
+    "calculation": [
+      {
+        "ridiculous": -3
+      }
+    ],
+    "tokens": [
+      "these",
+      "prices",
+      "are",
+      "ridiculous",
+      "for",
+      "a",
+      "14",
+      "or",
+      "15",
+      "minute",
+      "ride",
+      "https…"
+    ],
+    "words": [
+      "ridiculous"
+    ],
+    "positive": [],
+    "negative": [
+      "ridiculous"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.2727272727272727,
+    "calculation": [
+      {
+        "ridiculous": -3
+      }
+    ],
+    "tokens": [
+      "these",
+      "prices",
+      "are",
+      "ridiculous",
+      "for",
+      "a",
+      "14",
+      "or",
+      "15",
+      "minute",
+      "ride"
+    ],
+    "words": [
+      "ridiculous"
+    ],
+    "positive": [],
+    "negative": [
+      "ridiculous"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.09090909090909091,
+    "calculation": [
+      {
+        "cancelled": -1
+      }
+    ],
+    "tokens": [
+      "prebooked",
+      "an",
+      "uber",
+      "for",
+      "my",
+      "surgery",
+      "and",
+      "they",
+      "cancelled",
+      "at",
+      "th…"
+    ],
+    "words": [
+      "cancelled"
+    ],
+    "positive": [],
+    "negative": [
+      "cancelled"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.2,
+    "calculation": [
+      {
+        "free": 1
+      },
+      {
+        "enjoy": 2
+      }
+    ],
+    "tokens": [
+      "download",
+      "and",
+      "enjoy",
+      "free",
+      "rides",
+      "remember",
+      "different",
+      "app",
+      "same",
+      "drivers",
+      "for",
+      "amp",
+      "kindly",
+      "follow",
+      "link…"
+    ],
+    "words": [
+      "free",
+      "enjoy"
+    ],
+    "positive": [
+      "free",
+      "enjoy"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.26666666666666666,
+    "calculation": [
+      {
+        "better": 2
+      },
+      {
+        "loyalty": 3
+      },
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "has",
+      "come",
+      "down",
+      "to",
+      "cheap",
+      "standards",
+      "and",
+      "service",
+      "no",
+      "customer",
+      "loyalty",
+      "doing",
+      "so",
+      "much",
+      "better"
+    ],
+    "words": [
+      "better",
+      "loyalty",
+      "no"
+    ],
+    "positive": [
+      "better",
+      "loyalty"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.26666666666666666,
+    "calculation": [
+      {
+        "better": 2
+      },
+      {
+        "loyalty": 3
+      },
+      {
+        "no": -1
+      }
+    ],
+    "tokens": [
+      "has",
+      "come",
+      "down",
+      "to",
+      "cheap",
+      "standards",
+      "and",
+      "service",
+      "no",
+      "customer",
+      "loyalty",
+      "doing",
+      "so",
+      "much",
+      "better"
+    ],
+    "words": [
+      "better",
+      "loyalty",
+      "no"
+    ],
+    "positive": [
+      "better",
+      "loyalty"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.26666666666666666,
+    "calculation": [
+      {
+        "ban": -2
+      },
+      {
+        "boycotting": -2
+      }
+    ],
+    "tokens": [
+      "we're",
+      "boycotting",
+      "these",
+      "pro-abortion",
+      "companies",
+      "that",
+      "oppose",
+      "the",
+      "texas",
+      "abortion",
+      "ban",
+      "saving",
+      "babies",
+      "-",
+      "-"
+    ],
+    "words": [
+      "ban",
+      "boycotting"
+    ],
+    "positive": [],
+    "negative": [
+      "ban",
+      "boycotting"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.6,
+    "calculation": [
+      {
+        "bloody": -3
+      }
+    ],
+    "tokens": [
+      "too",
+      "many",
+      "obviously",
+      "bloody",
+      "aka"
+    ],
+    "words": [
+      "bloody"
+    ],
+    "positive": [],
+    "negative": [
+      "bloody"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.4,
+    "calculation": [
+      {
+        "successfully": 3
+      },
+      {
+        "reach": 1
+      }
+    ],
+    "tokens": [
+      "reach",
+      "out",
+      "to",
+      "cyruscode",
+      "on",
+      "instagram",
+      "he",
+      "fixed",
+      "mine",
+      "successfully"
+    ],
+    "words": [
+      "successfully",
+      "reach"
+    ],
+    "positive": [
+      "successfully",
+      "reach"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.038461538461538464,
+    "calculation": [
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "so",
+      "this",
+      "driver",
+      "is",
+      "telling",
+      "me",
+      "i",
+      "will",
+      "get",
+      "200",
+      "turkish",
+      "lira",
+      "if",
+      "you",
+      "want",
+      "me",
+      "i",
+      "said",
+      "there",
+      "is",
+      "a",
+      "rule",
+      "of",
+      "uber",
+      "seems",
+      "like…"
+    ],
+    "words": [
+      "want"
+    ],
+    "positive": [
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": -5,
+    "comparative": -0.35714285714285715,
+    "calculation": [
+      {
+        "crazy": -2
+      },
+      {
+        "hate": -3
+      }
+    ],
+    "tokens": [
+      "“don’t",
+      "hit",
+      "her”",
+      "i",
+      "hate",
+      "this",
+      "narrative",
+      "that",
+      "crazy",
+      "women",
+      "can’t",
+      "get",
+      "hit",
+      "when…"
+    ],
+    "words": [
+      "crazy",
+      "hate"
+    ],
+    "positive": [],
+    "negative": [
+      "crazy",
+      "hate"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.26666666666666666,
+    "calculation": [
+      {
+        "ban": -2
+      },
+      {
+        "boycotting": -2
+      }
+    ],
+    "tokens": [
+      "we're",
+      "boycotting",
+      "these",
+      "pro-abortion",
+      "companies",
+      "that",
+      "oppose",
+      "the",
+      "texas",
+      "abortion",
+      "ban",
+      "saving",
+      "babies",
+      "-",
+      "-"
+    ],
+    "words": [
+      "ban",
+      "boycotting"
+    ],
+    "positive": [],
+    "negative": [
+      "ban",
+      "boycotting"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "trouble": -2
+      }
+    ],
+    "tokens": [
+      "my",
+      "account",
+      "has",
+      "disabled",
+      "why",
+      "plz",
+      "restart",
+      "again",
+      "i",
+      "have",
+      "face",
+      "trouble"
+    ],
+    "words": [
+      "trouble"
+    ],
+    "positive": [],
+    "negative": [
+      "trouble"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.125,
+    "calculation": [
+      {
+        "yes": 1
+      }
+    ],
+    "tokens": [
+      "yes",
+      "i",
+      "know",
+      "but",
+      "everyone",
+      "should",
+      "report",
+      "atleast"
+    ],
+    "words": [
+      "yes"
+    ],
+    "positive": [
+      "yes"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.14285714285714285,
+    "calculation": [
+      {
+        "anger": -3
+      },
+      {
+        "👇": 1
+      }
+    ],
+    "tokens": [
+      "i",
+      "tweeted",
+      "2",
+      "months",
+      "back",
+      "on",
+      "this",
+      "👇",
+      "massive",
+      "anger",
+      "among",
+      "drivers",
+      "at",
+      "and"
+    ],
+    "words": [
+      "anger",
+      "👇"
+    ],
+    "positive": [
+      "👇"
+    ],
+    "negative": [
+      "anger"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.05263157894736842,
+    "calculation": [
+      {
+        "reject": -1
+      }
+    ],
+    "tokens": [
+      "🚘",
+      "and",
+      "drivers",
+      "need",
+      "to",
+      "reject",
+      "picking",
+      "up",
+      "“certain”",
+      "rider",
+      "customers",
+      "keep",
+      "your",
+      "doors",
+      "locked",
+      "and",
+      "if",
+      "the",
+      "cu…"
+    ],
+    "words": [
+      "reject"
+    ],
+    "positive": [],
+    "negative": [
+      "reject"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.07692307692307693,
+    "calculation": [
+      {
+        "forgot": -1
+      }
+    ],
+    "tokens": [
+      "yea",
+      "forgot",
+      "about",
+      "the",
+      "fees",
+      "it",
+      "makes",
+      "it",
+      "higher",
+      "at",
+      "ont",
+      "now",
+      "too"
+    ],
+    "words": [
+      "forgot"
+    ],
+    "positive": [],
+    "negative": [
+      "forgot"
+    ]
+  },
+  {
+    "score": -5,
+    "comparative": -0.625,
+    "calculation": [
+      {
+        "badly": -3
+      },
+      {
+        "suffered": -2
+      }
+    ],
+    "tokens": [
+      "i",
+      "have",
+      "also",
+      "suffered",
+      "badly",
+      "bcoz",
+      "of",
+      "this"
+    ],
+    "words": [
+      "badly",
+      "suffered"
+    ],
+    "positive": [],
+    "negative": [
+      "badly",
+      "suffered"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.045454545454545456,
+    "calculation": [
+      {
+        "join": 1
+      }
+    ],
+    "tokens": [
+      "our",
+      "community",
+      "will",
+      "join",
+      "us",
+      "in",
+      "october",
+      "for",
+      "our",
+      "annual",
+      "event",
+      "although",
+      "this",
+      "time",
+      "it’s",
+      "coming",
+      "to",
+      "a",
+      "screen",
+      "near",
+      "you",
+      "j…"
+    ],
+    "words": [
+      "join"
+    ],
+    "positive": [
+      "join"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.26666666666666666,
+    "calculation": [
+      {
+        "ban": -2
+      },
+      {
+        "boycotting": -2
+      }
+    ],
+    "tokens": [
+      "we're",
+      "boycotting",
+      "these",
+      "pro-abortion",
+      "companies",
+      "that",
+      "oppose",
+      "the",
+      "texas",
+      "abortion",
+      "ban",
+      "saving",
+      "babies",
+      "-",
+      "-"
+    ],
+    "words": [
+      "ban",
+      "boycotting"
+    ],
+    "positive": [],
+    "negative": [
+      "ban",
+      "boycotting"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": 4,
+    "comparative": 0.19047619047619047,
+    "calculation": [
+      {
+        "want": 1
+      },
+      {
+        "hahaha": 3
+      }
+    ],
+    "tokens": [
+      "hahaha",
+      "this",
+      "is",
+      "nothing",
+      "when",
+      "i",
+      "book",
+      "an",
+      "uber",
+      "here",
+      "in",
+      "delhi",
+      "the",
+      "drivers",
+      "ask",
+      "where",
+      "do",
+      "you",
+      "want",
+      "to",
+      "g…"
+    ],
+    "words": [
+      "want",
+      "hahaha"
+    ],
+    "positive": [
+      "want",
+      "hahaha"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.1875,
+    "calculation": [
+      {
+        "worse": -3
+      }
+    ],
+    "tokens": [
+      "tried",
+      "an",
+      "uber",
+      "after",
+      "almost",
+      "6",
+      "months",
+      "the",
+      "wait",
+      "time",
+      "and",
+      "driver",
+      "attitude",
+      "has",
+      "gone",
+      "worse"
+    ],
+    "words": [
+      "worse"
+    ],
+    "positive": [],
+    "negative": [
+      "worse"
+    ]
+  },
+  {
+    "score": 1,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "matter": 1
+      }
+    ],
+    "tokens": [
+      "matter",
+      "of",
+      "concern"
+    ],
+    "words": [
+      "matter"
+    ],
+    "positive": [
+      "matter"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.1875,
+    "calculation": [
+      {
+        "worse": -3
+      }
+    ],
+    "tokens": [
+      "tried",
+      "an",
+      "uber",
+      "after",
+      "almost",
+      "6",
+      "months",
+      "the",
+      "wait",
+      "time",
+      "and",
+      "driver",
+      "attitude",
+      "has",
+      "gone",
+      "worse"
+    ],
+    "words": [
+      "worse"
+    ],
+    "positive": [],
+    "negative": [
+      "worse"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.18181818181818182,
+    "calculation": [
+      {
+        "fail": -2
+      }
+    ],
+    "tokens": [
+      "all",
+      "tried",
+      "and",
+      "tested",
+      "systems",
+      "worldwide",
+      "ultimately",
+      "fail",
+      "in",
+      "india",
+      "u…"
+    ],
+    "words": [
+      "fail"
+    ],
+    "positive": [],
+    "negative": [
+      "fail"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.08333333333333333,
+    "calculation": [
+      {
+        "blame": -2
+      },
+      {
+        "yes": 1
+      }
+    ],
+    "tokens": [
+      "yes",
+      "i",
+      "have",
+      "hence",
+      "the",
+      "entire",
+      "blame",
+      "cannot",
+      "be",
+      "put",
+      "on",
+      "them"
+    ],
+    "words": [
+      "blame",
+      "yes"
+    ],
+    "positive": [
+      "yes"
+    ],
+    "negative": [
+      "blame"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.2,
+    "calculation": [
+      {
+        "lucky": 3
+      },
+      {
+        "worst": -3
+      },
+      {
+        "criminals": -3
+      }
+    ],
+    "tokens": [
+      "these",
+      "criminals",
+      "are",
+      "not",
+      "taxis",
+      "expect",
+      "amp",
+      "receive",
+      "the",
+      "worst",
+      "when",
+      "using",
+      "were",
+      "lucky",
+      "i…"
+    ],
+    "words": [
+      "lucky",
+      "worst",
+      "criminals"
+    ],
+    "positive": [
+      "lucky"
+    ],
+    "negative": [
+      "worst",
+      "criminals"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.08695652173913043,
+    "calculation": [
+      {
+        "ashamed": -2
+      }
+    ],
+    "tokens": [
+      "76",
+      "dollars",
+      "to",
+      "go",
+      "6",
+      "miles",
+      "down",
+      "the",
+      "road",
+      "from",
+      "lax",
+      "y’all",
+      "are",
+      "high",
+      "your",
+      "mother",
+      "would",
+      "be",
+      "ashamed",
+      "of",
+      "you",
+      "for",
+      "char…"
+    ],
+    "words": [
+      "ashamed"
+    ],
+    "positive": [],
+    "negative": [
+      "ashamed"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.15,
+    "calculation": [
+      {
+        "horrendous": -3
+      }
+    ],
+    "tokens": [
+      "omg",
+      "this",
+      "has",
+      "popped",
+      "up",
+      "on",
+      "my",
+      "timeline",
+      "and",
+      "that's",
+      "horrendous",
+      "he",
+      "shouldn't",
+      "have",
+      "done",
+      "that",
+      "i",
+      "left",
+      "mine",
+      "i…"
+    ],
+    "words": [
+      "horrendous"
+    ],
+    "positive": [],
+    "negative": [
+      "horrendous"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.09523809523809523,
+    "calculation": [
+      {
+        "fair": 2
+      }
+    ],
+    "tokens": [
+      "hey",
+      "guys",
+      "when",
+      "you",
+      "offer",
+      "the",
+      "service",
+      "of",
+      "booking",
+      "the",
+      "night",
+      "before",
+      "because",
+      "it's",
+      "actually",
+      "a",
+      "fair",
+      "price",
+      "maybe",
+      "don't",
+      "ca…"
+    ],
+    "words": [
+      "fair"
+    ],
+    "positive": [
+      "fair"
+    ],
+    "negative": []
+  },
+  {
+    "score": -6,
+    "comparative": -0.3,
+    "calculation": [
+      {
+        "accusation": -2
+      },
+      {
+        "bullshit": -4
+      }
+    ],
+    "tokens": [
+      "this",
+      "is",
+      "the",
+      "email",
+      "i",
+      "got",
+      "from",
+      "the",
+      "driver",
+      "who",
+      "made",
+      "this",
+      "bullshit",
+      "accusation",
+      "never",
+      "picked",
+      "me",
+      "up",
+      "he",
+      "can…"
+    ],
+    "words": [
+      "accusation",
+      "bullshit"
+    ],
+    "positive": [],
+    "negative": [
+      "accusation",
+      "bullshit"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaint": -2
+      },
+      {
+        "protest": -2
+      },
+      {
+        "dear": 2
+      }
+    ],
+    "tokens": [
+      "dear",
+      "your",
+      "drivers",
+      "in",
+      "kolkata",
+      "are",
+      "not",
+      "switching",
+      "on",
+      "their",
+      "acs",
+      "there",
+      "is",
+      "an",
+      "ongoing",
+      "protest",
+      "this",
+      "is",
+      "a",
+      "complaint",
+      "against…"
+    ],
+    "words": [
+      "complaint",
+      "protest",
+      "dear"
+    ],
+    "positive": [
+      "dear"
+    ],
+    "negative": [
+      "complaint",
+      "protest"
+    ]
+  },
+  {
+    "score": -6,
+    "comparative": -0.3157894736842105,
+    "calculation": [
+      {
+        "accusation": -2
+      },
+      {
+        "bullshit": -4
+      }
+    ],
+    "tokens": [
+      "this",
+      "is",
+      "the",
+      "email",
+      "i",
+      "got",
+      "from",
+      "the",
+      "driver",
+      "who",
+      "made",
+      "this",
+      "bullshit",
+      "accusation",
+      "never",
+      "picked",
+      "me",
+      "up",
+      "…"
+    ],
+    "words": [
+      "accusation",
+      "bullshit"
+    ],
+    "positive": [],
+    "negative": [
+      "accusation",
+      "bullshit"
+    ]
+  }
+]

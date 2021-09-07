@@ -1,0 +1,3020 @@
+[
+  {
+    "score": -6,
+    "comparative": -0.6,
+    "calculation": [
+      {
+        "broke": -1
+      },
+      {
+        "pay": -1
+      },
+      {
+        "fuck": -4
+      }
+    ],
+    "tokens": [
+      "nah",
+      "fuck",
+      "they",
+      "can",
+      "pay",
+      "for",
+      "the",
+      "stuff",
+      "that",
+      "broke"
+    ],
+    "words": [
+      "broke",
+      "pay",
+      "fuck"
+    ],
+    "positive": [],
+    "negative": [
+      "broke",
+      "pay",
+      "fuck"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "friendly": 2
+      }
+    ],
+    "tokens": [
+      "rules",
+      "for",
+      "thee",
+      "but",
+      "not",
+      "for",
+      "me",
+      "bow",
+      "peasants",
+      "come",
+      "fly",
+      "the",
+      "friendly",
+      "skies"
+    ],
+    "words": [
+      "friendly"
+    ],
+    "positive": [
+      "friendly"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.15384615384615385,
+    "calculation": [
+      {
+        "award": 3
+      },
+      {
+        "difficult": -1
+      }
+    ],
+    "tokens": [
+      "the",
+      "simple",
+      "processes",
+      "that",
+      "makes",
+      "difficult",
+      "they",
+      "can't",
+      "even",
+      "auto",
+      "process",
+      "award",
+      "refunds"
+    ],
+    "words": [
+      "award",
+      "difficult"
+    ],
+    "positive": [
+      "award"
+    ],
+    "negative": [
+      "difficult"
+    ]
+  },
+  {
+    "score": -4,
+    "comparative": -0.4,
+    "calculation": [
+      {
+        "boycott": -2
+      },
+      {
+        "refusing": -2
+      }
+    ],
+    "tokens": [
+      "here",
+      "are",
+      "some",
+      "more",
+      "companies",
+      "refusing",
+      "to",
+      "speak",
+      "out",
+      "boycott"
+    ],
+    "words": [
+      "boycott",
+      "refusing"
+    ],
+    "positive": [],
+    "negative": [
+      "boycott",
+      "refusing"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "complaints": -2
+      }
+    ],
+    "tokens": [
+      "respond",
+      "w",
+      "in",
+      "12",
+      "hrs",
+      "or",
+      "i",
+      "will",
+      "file",
+      "multiple",
+      "complaints",
+      "re",
+      "bs",
+      "removal",
+      "from",
+      "plane",
+      "on",
+      "ada",
+      "grounds",
+      "in",
+      "th…"
+    ],
+    "words": [
+      "complaints"
+    ],
+    "positive": [],
+    "negative": [
+      "complaints"
+    ]
+  },
+  {
+    "score": -5,
+    "comparative": -0.2631578947368421,
+    "calculation": [
+      {
+        "losing": -3
+      },
+      {
+        "shameful": -2
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "so",
+      "shameful",
+      "that",
+      "none",
+      "of",
+      "texas’s",
+      "biggest",
+      "companies",
+      "have",
+      "said",
+      "a",
+      "word",
+      "about",
+      "their",
+      "employees",
+      "losing",
+      "their",
+      "constitution…"
+    ],
+    "words": [
+      "losing",
+      "shameful"
+    ],
+    "positive": [],
+    "negative": [
+      "losing",
+      "shameful"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.09090909090909091,
+    "calculation": [
+      {
+        "cancelled": -1
+      }
+    ],
+    "tokens": [
+      "cancelled",
+      "my",
+      "connecting",
+      "flight",
+      "just",
+      "as",
+      "i",
+      "was",
+      "about",
+      "to",
+      "board…"
+    ],
+    "words": [
+      "cancelled"
+    ],
+    "positive": [],
+    "negative": [
+      "cancelled"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.13636363636363635,
+    "calculation": [
+      {
+        "care": 2
+      },
+      {
+        "want": 1
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "and",
+      "we",
+      "want",
+      "to",
+      "give",
+      "a",
+      "special",
+      "shout",
+      "out",
+      "to",
+      "our",
+      "as",
+      "they",
+      "care",
+      "for",
+      "people",
+      "on",
+      "life’s",
+      "journey",
+      "today",
+      "and…"
+    ],
+    "words": [
+      "care",
+      "want"
+    ],
+    "positive": [
+      "care",
+      "want"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "safe": 1
+      }
+    ],
+    "tokens": [
+      "it’s",
+      "safe",
+      "because",
+      "they",
+      "are",
+      "getting",
+      "vaccinated"
+    ],
+    "words": [
+      "safe"
+    ],
+    "positive": [
+      "safe"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.07692307692307693,
+    "calculation": [
+      {
+        "protected": 1
+      }
+    ],
+    "tokens": [
+      "i'd",
+      "argue",
+      "everyone",
+      "should",
+      "be",
+      "protected",
+      "in",
+      "irrops",
+      "but",
+      "dougie",
+      "seems",
+      "to",
+      "disagre…"
+    ],
+    "words": [
+      "protected"
+    ],
+    "positive": [
+      "protected"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.2,
+    "calculation": [
+      {
+        "bad": -3
+      }
+    ],
+    "tokens": [
+      "because",
+      "the",
+      "changes",
+      "are",
+      "i'd",
+      "argue",
+      "bad",
+      "for",
+      "business",
+      "in",
+      "the",
+      "long",
+      "run",
+      "and",
+      "unfri…"
+    ],
+    "words": [
+      "bad"
+    ],
+    "positive": [],
+    "negative": [
+      "bad"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "magnificent": 3
+      }
+    ],
+    "tokens": [
+      "one",
+      "from",
+      "last",
+      "year",
+      "and",
+      "my",
+      "first",
+      "time",
+      "at",
+      "this",
+      "magnificent",
+      "spot",
+      "here",
+      "is",
+      "777-323",
+      "er",
+      "n725an",
+      "moments…"
+    ],
+    "words": [
+      "magnificent"
+    ],
+    "positive": [
+      "magnificent"
+    ],
+    "negative": []
+  },
+  {
+    "score": -4,
+    "comparative": -0.25,
+    "calculation": [
+      {
+        "cancel": -1
+      },
+      {
+        "worst": -3
+      }
+    ],
+    "tokens": [
+      "worst",
+      "experience",
+      "traveling",
+      "with",
+      "your",
+      "airline",
+      "cancel",
+      "our",
+      "flight",
+      "last",
+      "minute",
+      "and",
+      "then",
+      "it’s",
+      "been",
+      "nothing…"
+    ],
+    "words": [
+      "cancel",
+      "worst"
+    ],
+    "positive": [],
+    "negative": [
+      "cancel",
+      "worst"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "magnificent": 3
+      }
+    ],
+    "tokens": [
+      "one",
+      "from",
+      "last",
+      "year",
+      "and",
+      "my",
+      "first",
+      "time",
+      "at",
+      "this",
+      "magnificent",
+      "spot",
+      "here",
+      "is",
+      "777-323",
+      "er",
+      "n725an",
+      "moments…"
+    ],
+    "words": [
+      "magnificent"
+    ],
+    "positive": [
+      "magnificent"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.5,
+    "calculation": [
+      {
+        "terrible": -3
+      }
+    ],
+    "tokens": [
+      "well",
+      "that’s",
+      "just",
+      "terrible",
+      "customer",
+      "service"
+    ],
+    "words": [
+      "terrible"
+    ],
+    "positive": [],
+    "negative": [
+      "terrible"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "better": 2
+      }
+    ],
+    "tokens": [
+      "yo",
+      "american",
+      "air",
+      "better",
+      "be",
+      "sending",
+      "a",
+      "check"
+    ],
+    "words": [
+      "better"
+    ],
+    "positive": [
+      "better"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.16666666666666666,
+    "calculation": [
+      {
+        "magnificent": 3
+      }
+    ],
+    "tokens": [
+      "one",
+      "from",
+      "last",
+      "year",
+      "and",
+      "my",
+      "first",
+      "time",
+      "at",
+      "this",
+      "magnificent",
+      "spot",
+      "here",
+      "is",
+      "777-323",
+      "er",
+      "n725an",
+      "moments…"
+    ],
+    "words": [
+      "magnificent"
+    ],
+    "positive": [
+      "magnificent"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.35,
+    "calculation": [
+      {
+        "no": -1
+      },
+      {
+        "great": 3
+      },
+      {
+        "love": 3
+      },
+      {
+        "welcome": 2
+      }
+    ],
+    "tokens": [
+      "welcome",
+      "back",
+      "to",
+      "the",
+      "people",
+      "and",
+      "places",
+      "you",
+      "love",
+      "with",
+      "great",
+      "fares",
+      "and",
+      "no",
+      "change",
+      "fees",
+      "applies",
+      "to",
+      "main",
+      "cabi…"
+    ],
+    "words": [
+      "no",
+      "great",
+      "love",
+      "welcome"
+    ],
+    "positive": [
+      "great",
+      "love",
+      "welcome"
+    ],
+    "negative": [
+      "no"
+    ]
+  },
+  {
+    "score": 6,
+    "comparative": 1.5,
+    "calculation": [
+      {
+        "innovative": 2
+      },
+      {
+        "winning": 4
+      }
+    ],
+    "tokens": [
+      "featuring",
+      "winning",
+      "innovative",
+      "technolo…"
+    ],
+    "words": [
+      "innovative",
+      "winning"
+    ],
+    "positive": [
+      "innovative",
+      "winning"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.15384615384615385,
+    "calculation": [
+      {
+        "assets": 2
+      }
+    ],
+    "tokens": [
+      "jam",
+      "accentuate",
+      "masters",
+      "©",
+      "dmp",
+      "2020",
+      "jeweled",
+      "assets",
+      "zenith's",
+      "zen",
+      "©",
+      "dmp",
+      "2013"
+    ],
+    "words": [
+      "assets"
+    ],
+    "positive": [
+      "assets"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.13333333333333333,
+    "calculation": [
+      {
+        "top": 2
+      },
+      {
+        "boycotting": -2
+      },
+      {
+        "support": 2
+      }
+    ],
+    "tokens": [
+      "we",
+      "can",
+      "show",
+      "support",
+      "by",
+      "boycotting",
+      "companies",
+      "headquartered",
+      "in",
+      "texas",
+      "is",
+      "top",
+      "of",
+      "the",
+      "list…"
+    ],
+    "words": [
+      "top",
+      "boycotting",
+      "support"
+    ],
+    "positive": [
+      "top",
+      "support"
+    ],
+    "negative": [
+      "boycotting"
+    ]
+  },
+  {
+    "score": 8,
+    "comparative": 0.4,
+    "calculation": [
+      {
+        "thank": 2
+      },
+      {
+        "💙": 3
+      },
+      {
+        "❤": 3
+      }
+    ],
+    "tokens": [
+      "i",
+      "❤",
+      "️",
+      "🤍",
+      "💙",
+      "this",
+      "thank",
+      "you",
+      "to",
+      "be",
+      "a",
+      "frequent",
+      "flyer…who",
+      "wears",
+      "a",
+      "mask",
+      "and",
+      "doesn’t",
+      "require",
+      "duct-tape"
+    ],
+    "words": [
+      "thank",
+      "💙",
+      "❤"
+    ],
+    "positive": [
+      "thank",
+      "💙",
+      "❤"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": -4,
+    "comparative": -0.4,
+    "calculation": [
+      {
+        "boycott": -2
+      },
+      {
+        "refusing": -2
+      }
+    ],
+    "tokens": [
+      "here",
+      "are",
+      "some",
+      "more",
+      "companies",
+      "refusing",
+      "to",
+      "speak",
+      "out",
+      "boycott"
+    ],
+    "words": [
+      "boycott",
+      "refusing"
+    ],
+    "positive": [],
+    "negative": [
+      "boycott",
+      "refusing"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 9,
+    "comparative": 3,
+    "calculation": [
+      {
+        "love": 3
+      },
+      {
+        "love": 3
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "love",
+      "love",
+      "love"
+    ],
+    "words": [
+      "love",
+      "love",
+      "love"
+    ],
+    "positive": [
+      "love",
+      "love",
+      "love"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "friendly": 2
+      }
+    ],
+    "tokens": [
+      "rules",
+      "for",
+      "thee",
+      "but",
+      "not",
+      "for",
+      "me",
+      "bow",
+      "peasants",
+      "come",
+      "fly",
+      "the",
+      "friendly",
+      "skies"
+    ],
+    "words": [
+      "friendly"
+    ],
+    "positive": [
+      "friendly"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.2,
+    "calculation": [
+      {
+        "♂": 1
+      },
+      {
+        "hell": -4
+      },
+      {
+        "failed": -2
+      },
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "like",
+      "80",
+      "of",
+      "it",
+      "is",
+      "failed",
+      "amp",
+      "rough",
+      "as",
+      "all",
+      "hell",
+      "🤦",
+      "‍",
+      "♂",
+      "️"
+    ],
+    "words": [
+      "♂",
+      "hell",
+      "failed",
+      "like"
+    ],
+    "positive": [
+      "♂",
+      "like"
+    ],
+    "negative": [
+      "hell",
+      "failed"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.2857142857142857,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "wait",
+      "what",
+      "happened",
+      "to",
+      "the",
+      "keycap",
+      "it",
+      "looks",
+      "like",
+      "it",
+      "somehow",
+      "melted",
+      "like",
+      "cheese"
+    ],
+    "words": [
+      "like",
+      "like"
+    ],
+    "positive": [
+      "like",
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.10526315789473684,
+    "calculation": [
+      {
+        "scared": -2
+      }
+    ],
+    "tokens": [
+      "that’s",
+      "an",
+      "understatement",
+      "i’m",
+      "flying",
+      "with",
+      "y’all",
+      "11",
+      "more",
+      "times",
+      "in",
+      "the",
+      "next",
+      "month",
+      "and",
+      "i’m",
+      "genuinely",
+      "scared",
+      "for…"
+    ],
+    "words": [
+      "scared"
+    ],
+    "positive": [],
+    "negative": [
+      "scared"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.07142857142857142,
+    "calculation": [
+      {
+        "broken": -1
+      }
+    ],
+    "tokens": [
+      "they",
+      "probably",
+      "won't",
+      "they'd",
+      "ask",
+      "him",
+      "to",
+      "prove",
+      "they",
+      "weren't",
+      "broken",
+      "before",
+      "the",
+      "flight"
+    ],
+    "words": [
+      "broken"
+    ],
+    "positive": [],
+    "negative": [
+      "broken"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.15384615384615385,
+    "calculation": [
+      {
+        "dedicated": 2
+      }
+    ],
+    "tokens": [
+      "this",
+      "postcard",
+      "is",
+      "dedicated",
+      "to",
+      "all",
+      "those",
+      "hardworking",
+      "aviation",
+      "personal",
+      "out",
+      "there",
+      "this"
+    ],
+    "words": [
+      "dedicated"
+    ],
+    "positive": [
+      "dedicated"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "support": 2
+      }
+    ],
+    "tokens": [
+      "i",
+      "support",
+      "a",
+      "we",
+      "start",
+      "a",
+      "thread",
+      "to",
+      "tweet",
+      "retweet",
+      "add",
+      "to",
+      "a",
+      "list",
+      "of",
+      "texas",
+      "companies",
+      "silent",
+      "and",
+      "complic…"
+    ],
+    "words": [
+      "support"
+    ],
+    "positive": [
+      "support"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "friendly": 2
+      }
+    ],
+    "tokens": [
+      "rules",
+      "for",
+      "thee",
+      "but",
+      "not",
+      "for",
+      "me",
+      "bow",
+      "peasants",
+      "come",
+      "fly",
+      "the",
+      "friendly",
+      "skies"
+    ],
+    "words": [
+      "friendly"
+    ],
+    "positive": [
+      "friendly"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 0.18518518518518517,
+    "calculation": [
+      {
+        "fun": 4
+      },
+      {
+        "safe": 1
+      }
+    ],
+    "tokens": [
+      "just",
+      "landed",
+      "back",
+      "home",
+      "had",
+      "safe",
+      "travels",
+      "and",
+      "tons",
+      "of",
+      "fun",
+      "at",
+      "ndk",
+      "expect",
+      "photos",
+      "another",
+      "time",
+      "but",
+      "i",
+      "did",
+      "have",
+      "a",
+      "bit",
+      "of",
+      "an",
+      "issue",
+      "…"
+    ],
+    "words": [
+      "fun",
+      "safe"
+    ],
+    "positive": [
+      "fun",
+      "safe"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.24,
+    "calculation": [
+      {
+        "justice": 2
+      },
+      {
+        "freedom": 2
+      },
+      {
+        "proud": 2
+      }
+    ],
+    "tokens": [
+      "every",
+      "day",
+      "is",
+      "for",
+      "us",
+      "we",
+      "are",
+      "proud",
+      "to",
+      "display",
+      "a",
+      "symbol",
+      "of",
+      "freedom",
+      "valor",
+      "and",
+      "justice",
+      "on",
+      "our",
+      "tail",
+      "and",
+      "we",
+      "do",
+      "so",
+      "with…"
+    ],
+    "words": [
+      "justice",
+      "freedom",
+      "proud"
+    ],
+    "positive": [
+      "justice",
+      "freedom",
+      "proud"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "like": 2
+      }
+    ],
+    "tokens": [
+      "americanair",
+      "responded",
+      "but",
+      "it",
+      "kinda",
+      "feels",
+      "like",
+      "they",
+      "did",
+      "cuz",
+      "jo",
+      "has",
+      "many",
+      "followersonly",
+      "one",
+      "way",
+      "to",
+      "find",
+      "out",
+      "though"
+    ],
+    "words": [
+      "like"
+    ],
+    "positive": [
+      "like"
+    ],
+    "negative": []
+  },
+  {
+    "score": 21,
+    "comparative": 1.4,
+    "calculation": [
+      {
+        "👏": 2
+      },
+      {
+        "❤": 3
+      },
+      {
+        "💙": 3
+      },
+      {
+        "💯": 5
+      },
+      {
+        "🏈": 2
+      },
+      {
+        "💪": 2
+      },
+      {
+        "🌎": 1
+      },
+      {
+        "🙏": 2
+      },
+      {
+        "god": 1
+      }
+    ],
+    "tokens": [
+      "god",
+      "🙏",
+      "🏾",
+      "🌎",
+      "💪",
+      "🏾",
+      "🏈",
+      "💯",
+      "💙",
+      "🤍",
+      "❤",
+      "️",
+      "leggo",
+      "👏",
+      "🏾"
+    ],
+    "words": [
+      "👏",
+      "❤",
+      "💙",
+      "💯",
+      "🏈",
+      "💪",
+      "🌎",
+      "🙏",
+      "god"
+    ],
+    "positive": [
+      "👏",
+      "❤",
+      "💙",
+      "💯",
+      "🏈",
+      "💪",
+      "🌎",
+      "🙏",
+      "god"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.2857142857142857,
+    "calculation": [
+      {
+        "sick": -2
+      }
+    ],
+    "tokens": [
+      "i",
+      "think",
+      "i'm",
+      "going",
+      "to",
+      "be",
+      "sick"
+    ],
+    "words": [
+      "sick"
+    ],
+    "positive": [],
+    "negative": [
+      "sick"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.15384615384615385,
+    "calculation": [
+      {
+        "respect": 2
+      }
+    ],
+    "tokens": [
+      "doing",
+      "the",
+      "right",
+      "thing",
+      "we'll",
+      "see",
+      "how",
+      "this",
+      "turns",
+      "out",
+      "but",
+      "that's",
+      "respect"
+    ],
+    "words": [
+      "respect"
+    ],
+    "positive": [
+      "respect"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.125,
+    "calculation": [
+      {
+        "jesus": 1
+      }
+    ],
+    "tokens": [
+      "jesus",
+      "contact",
+      "a",
+      "lawyer",
+      "that’s",
+      "extremely",
+      "not",
+      "okay"
+    ],
+    "words": [
+      "jesus"
+    ],
+    "positive": [
+      "jesus"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.14285714285714285,
+    "calculation": [
+      {
+        "lunatic": -3
+      }
+    ],
+    "tokens": [
+      "american",
+      "airlines",
+      "just",
+      "put",
+      "on",
+      "their",
+      "brown",
+      "shirts",
+      "what",
+      "a",
+      "bunch",
+      "of",
+      "lunatic",
+      "communists",
+      "patriots",
+      "let's",
+      "vote",
+      "with",
+      "our",
+      "dollars",
+      "t…"
+    ],
+    "words": [
+      "lunatic"
+    ],
+    "positive": [],
+    "negative": [
+      "lunatic"
+    ]
+  },
+  {
+    "score": 7,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "hopefully": 2
+      },
+      {
+        "fine": 2
+      },
+      {
+        "luckily": 3
+      }
+    ],
+    "tokens": [
+      "the",
+      "aftermath",
+      "of",
+      "the",
+      "flight",
+      "with",
+      "all",
+      "my",
+      "work",
+      "stuff",
+      "luckily",
+      "the",
+      "tower",
+      "is",
+      "fine",
+      "and",
+      "holding",
+      "up",
+      "but",
+      "still",
+      "hopefully"
+    ],
+    "words": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "positive": [
+      "hopefully",
+      "fine",
+      "luckily"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.06666666666666667,
+    "calculation": [
+      {
+        "destroying": -3
+      },
+      {
+        "thank": 2
+      }
+    ],
+    "tokens": [
+      "thank",
+      "you",
+      "for",
+      "destroying",
+      "my",
+      "baby",
+      "sister's",
+      "honeymoon",
+      "today",
+      "an",
+      "agent",
+      "at",
+      "you",
+      "counter",
+      "incorr…"
+    ],
+    "words": [
+      "destroying",
+      "thank"
+    ],
+    "positive": [
+      "thank"
+    ],
+    "negative": [
+      "destroying"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.09523809523809523,
+    "calculation": [
+      {
+        "god": 1
+      },
+      {
+        "fresh": 1
+      },
+      {
+        "shame": -2
+      },
+      {
+        "shame": -2
+      }
+    ],
+    "tokens": [
+      "shame",
+      "on",
+      "you",
+      "for",
+      "attempting",
+      "to",
+      "shame",
+      "a",
+      "pilot",
+      "who",
+      "just",
+      "wants",
+      "to",
+      "be",
+      "normal",
+      "and",
+      "breath",
+      "fresh",
+      "air",
+      "god",
+      "ble…"
+    ],
+    "words": [
+      "god",
+      "fresh",
+      "shame",
+      "shame"
+    ],
+    "positive": [
+      "god",
+      "fresh"
+    ],
+    "negative": [
+      "shame",
+      "shame"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.20833333333333334,
+    "calculation": [
+      {
+        "fun": 4
+      },
+      {
+        "safe": 1
+      }
+    ],
+    "tokens": [
+      "just",
+      "landed",
+      "back",
+      "home",
+      "had",
+      "safe",
+      "travels",
+      "and",
+      "tons",
+      "of",
+      "fun",
+      "at",
+      "ndk",
+      "expect",
+      "photos",
+      "another",
+      "time",
+      "but",
+      "i",
+      "did",
+      "have",
+      "a",
+      "bit",
+      "o…"
+    ],
+    "words": [
+      "fun",
+      "safe"
+    ],
+    "positive": [
+      "fun",
+      "safe"
+    ],
+    "negative": []
+  },
+  {
+    "score": 4,
+    "comparative": 0.26666666666666666,
+    "calculation": [
+      {
+        "wonderful": 4
+      }
+    ],
+    "tokens": [
+      "on",
+      "flight",
+      "561",
+      "today",
+      "and",
+      "head",
+      "flight",
+      "attendant",
+      "cynthia",
+      "ross",
+      "was",
+      "wonderful",
+      "efficient",
+      "always",
+      "checking…"
+    ],
+    "words": [
+      "wonderful"
+    ],
+    "positive": [
+      "wonderful"
+    ],
+    "negative": []
+  }
+]

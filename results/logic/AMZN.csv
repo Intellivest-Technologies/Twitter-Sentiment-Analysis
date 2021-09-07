@@ -1,0 +1,1253 @@
+[
+  {
+    "score": 1,
+    "comparative": 0.05,
+    "calculation": [
+      {
+        "growing": 1
+      }
+    ],
+    "tokens": [
+      "check",
+      "out",
+      "this",
+      "amazon",
+      "deal",
+      "vegetable",
+      "gardening",
+      "for",
+      "beginners",
+      "a",
+      "simple",
+      "guide",
+      "to",
+      "growing",
+      "vegetables",
+      "at",
+      "home",
+      "by",
+      "mcsheehy",
+      "jil…"
+    ],
+    "words": [
+      "growing"
+    ],
+    "positive": [
+      "growing"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "clear": 1
+      },
+      {
+        "help": 2
+      },
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "please",
+      "help",
+      "me",
+      "clear",
+      "my",
+      "list",
+      "many",
+      "items",
+      "are",
+      "for",
+      "my",
+      "classroom",
+      "and",
+      "to",
+      "help",
+      "our",
+      "project",
+      "t…"
+    ],
+    "words": [
+      "help",
+      "clear",
+      "help",
+      "please"
+    ],
+    "positive": [
+      "help",
+      "clear",
+      "help",
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.14285714285714285,
+    "calculation": [
+      {
+        "gift": 2
+      }
+    ],
+    "tokens": [
+      "bellaa",
+      "20744",
+      "wind",
+      "chimes",
+      "gift",
+      "for",
+      "woman",
+      "outdoors",
+      "home",
+      "decor",
+      "patio",
+      "yard",
+      "garden",
+      "via"
+    ],
+    "words": [
+      "gift"
+    ],
+    "positive": [
+      "gift"
+    ],
+    "negative": []
+  },
+  {
+    "score": -3,
+    "comparative": -0.17647058823529413,
+    "calculation": [
+      {
+        "happy": -3
+      }
+    ],
+    "tokens": [
+      "not",
+      "happy",
+      "with",
+      "the",
+      "service",
+      "inspite",
+      "of",
+      "requesting",
+      "return",
+      "of",
+      "an",
+      "item",
+      "4times",
+      "even",
+      "today",
+      "the",
+      "pic…"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [],
+    "negative": [
+      "happy"
+    ]
+  },
+  {
+    "score": -3,
+    "comparative": -0.2,
+    "calculation": [
+      {
+        "happy": -3
+      }
+    ],
+    "tokens": [
+      "not",
+      "happy",
+      "with",
+      "the",
+      "service",
+      "inspite",
+      "of",
+      "requesting",
+      "return",
+      "of",
+      "an",
+      "item",
+      "4times",
+      "even",
+      "toda…"
+    ],
+    "words": [
+      "happy"
+    ],
+    "positive": [],
+    "negative": [
+      "happy"
+    ]
+  },
+  {
+    "score": -2,
+    "comparative": -0.1111111111111111,
+    "calculation": [
+      {
+        "miss": -2
+      },
+      {
+        "comfort": 2
+      },
+      {
+        "miss": -2
+      }
+    ],
+    "tokens": [
+      "check",
+      "out",
+      "miss",
+      "mary",
+      "of",
+      "sweden",
+      "broderie",
+      "anglaise",
+      "women's",
+      "non-wired",
+      "comfort",
+      "cotton",
+      "bra",
+      "by",
+      "miss",
+      "mary",
+      "of",
+      "sweden"
+    ],
+    "words": [
+      "miss",
+      "comfort",
+      "miss"
+    ],
+    "positive": [
+      "comfort"
+    ],
+    "negative": [
+      "miss",
+      "miss"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.22727272727272727,
+    "calculation": [
+      {
+        "thank": 2
+      },
+      {
+        "nice": 3
+      }
+    ],
+    "tokens": [
+      "well",
+      "this",
+      "was",
+      "nice",
+      "to",
+      "wake",
+      "up",
+      "to",
+      "this",
+      "morning",
+      "in",
+      "the",
+      "kindle",
+      "chart",
+      "thank",
+      "you",
+      "so",
+      "much",
+      "if",
+      "you’ve",
+      "already",
+      "bou…"
+    ],
+    "words": [
+      "thank",
+      "nice"
+    ],
+    "positive": [
+      "thank",
+      "nice"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.08333333333333333,
+    "calculation": [
+      {
+        "drop": -1
+      },
+      {
+        "happy": 3
+      }
+    ],
+    "tokens": [
+      "happy",
+      "labor",
+      "day",
+      "let’s",
+      "do",
+      "a",
+      "rt",
+      "drop",
+      "be",
+      "sure",
+      "to",
+      "follow",
+      "me",
+      "rt",
+      "this",
+      "post",
+      "and",
+      "rt",
+      "others",
+      "as",
+      "well",
+      "i",
+      "would",
+      "love…"
+    ],
+    "words": [
+      "drop",
+      "happy"
+    ],
+    "positive": [
+      "happy"
+    ],
+    "negative": [
+      "drop"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.15,
+    "calculation": [
+      {
+        "loves": 3
+      }
+    ],
+    "tokens": [
+      "meet",
+      "trevor",
+      "2021",
+      "acco",
+      "+",
+      "ambassador",
+      "trevor",
+      "is",
+      "a",
+      "15",
+      "year",
+      "old",
+      "two",
+      "time",
+      "warrior",
+      "who",
+      "loves",
+      "to",
+      "travel",
+      "and…"
+    ],
+    "words": [
+      "loves"
+    ],
+    "positive": [
+      "loves"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.4,
+    "calculation": [
+      {
+        "care": 2
+      }
+    ],
+    "tokens": [
+      "health",
+      "care",
+      "products",
+      "via",
+      "85"
+    ],
+    "words": [
+      "care"
+    ],
+    "positive": [
+      "care"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1111111111111111,
+    "calculation": [
+      {
+        "fit": 1
+      },
+      {
+        "vision": 1
+      }
+    ],
+    "tokens": [
+      "just",
+      "saw",
+      "this",
+      "on",
+      "amazon",
+      "uv400",
+      "night",
+      "vision",
+      "glasses",
+      "fit",
+      "over",
+      "prescription",
+      "eyewear",
+      "wrap",
+      "arounds",
+      "sunglasses",
+      "driving",
+      "p…"
+    ],
+    "words": [
+      "fit",
+      "vision"
+    ],
+    "positive": [
+      "fit",
+      "vision"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "care": 2
+      }
+    ],
+    "tokens": [
+      "health",
+      "care",
+      "products",
+      "via",
+      "16",
+      "303694"
+    ],
+    "words": [
+      "care"
+    ],
+    "positive": [
+      "care"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "fine": 2
+      }
+    ],
+    "tokens": [
+      "in",
+      "july",
+      "21",
+      "luxembourg's",
+      "data",
+      "watch",
+      "dog",
+      "issued",
+      "the",
+      "european",
+      "branch",
+      "of",
+      "a",
+      "fine",
+      "of",
+      "roughly",
+      "million",
+      "usd",
+      "for",
+      "th…"
+    ],
+    "words": [
+      "fine"
+    ],
+    "positive": [
+      "fine"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.10526315789473684,
+    "calculation": [
+      {
+        "😐": -2
+      }
+    ],
+    "tokens": [
+      "i",
+      "live",
+      "on",
+      "the",
+      "west",
+      "coast",
+      "and",
+      "delivered",
+      "my",
+      "package",
+      "to",
+      "new",
+      "jersey",
+      "😐",
+      "how",
+      "does",
+      "that",
+      "even",
+      "happen"
+    ],
+    "words": [
+      "😐"
+    ],
+    "positive": [],
+    "negative": [
+      "😐"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.25,
+    "calculation": [
+      {
+        "novel": 2
+      },
+      {
+        "great": 3
+      }
+    ],
+    "tokens": [
+      "isaac",
+      "thorne",
+      "is",
+      "a",
+      "master",
+      "at",
+      "weaving",
+      "a",
+      "great",
+      "story",
+      "—barbara's",
+      "4-star",
+      "review",
+      "of",
+      "my",
+      "novel",
+      "the",
+      "gordon",
+      "place",
+      "on"
+    ],
+    "words": [
+      "novel",
+      "great"
+    ],
+    "positive": [
+      "novel",
+      "great"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.16666666666666666,
+    "calculation": [
+      {
+        "boycott": -2
+      },
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "please",
+      "boycott",
+      "these",
+      "fox",
+      "news",
+      "sponsors"
+    ],
+    "words": [
+      "boycott",
+      "please"
+    ],
+    "positive": [
+      "please"
+    ],
+    "negative": [
+      "boycott"
+    ]
+  },
+  {
+    "score": 5,
+    "comparative": 0.35714285714285715,
+    "calculation": [
+      {
+        "👍": 2
+      },
+      {
+        "fortune": 2
+      },
+      {
+        "wish": 1
+      }
+    ],
+    "tokens": [
+      "jeezo",
+      "wish",
+      "i",
+      "knew",
+      "we",
+      "spend",
+      "a",
+      "fortune",
+      "at",
+      "amazon",
+      "now",
+      "i",
+      "know",
+      "👍"
+    ],
+    "words": [
+      "👍",
+      "fortune",
+      "wish"
+    ],
+    "positive": [
+      "👍",
+      "fortune",
+      "wish"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.07142857142857142,
+    "calculation": [
+      {
+        "free": 1
+      }
+    ],
+    "tokens": [
+      "amp",
+      "gave",
+      "away",
+      "free",
+      "shoes",
+      "water",
+      "bottles",
+      "and",
+      "school",
+      "supplies",
+      "to",
+      "children",
+      "in",
+      "need"
+    ],
+    "words": [
+      "free"
+    ],
+    "positive": [
+      "free"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.1,
+    "calculation": [
+      {
+        "fine": 2
+      }
+    ],
+    "tokens": [
+      "in",
+      "july",
+      "21",
+      "luxembourg's",
+      "data",
+      "watch",
+      "dog",
+      "issued",
+      "the",
+      "european",
+      "branch",
+      "of",
+      "a",
+      "fine",
+      "of",
+      "roughly",
+      "million",
+      "usd",
+      "for",
+      "th…"
+    ],
+    "words": [
+      "fine"
+    ],
+    "positive": [
+      "fine"
+    ],
+    "negative": []
+  },
+  {
+    "score": 6,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "help": 2
+      },
+      {
+        "clear": 1
+      },
+      {
+        "help": 2
+      },
+      {
+        "please": 1
+      }
+    ],
+    "tokens": [
+      "please",
+      "help",
+      "me",
+      "clear",
+      "my",
+      "list",
+      "many",
+      "items",
+      "are",
+      "for",
+      "my",
+      "classroom",
+      "and",
+      "to",
+      "help",
+      "our",
+      "project",
+      "t…"
+    ],
+    "words": [
+      "help",
+      "clear",
+      "help",
+      "please"
+    ],
+    "positive": [
+      "help",
+      "clear",
+      "help",
+      "please"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.09523809523809523,
+    "calculation": [
+      {
+        "👋": 2
+      }
+    ],
+    "tokens": [
+      "hi",
+      "👋",
+      "🏻",
+      "i’m",
+      "a",
+      "3rd",
+      "grade",
+      "teacher",
+      "in",
+      "texas",
+      "at",
+      "a",
+      "title",
+      "1",
+      "school",
+      "that",
+      "caters",
+      "to",
+      "mostly",
+      "economically",
+      "disadvant…"
+    ],
+    "words": [
+      "👋"
+    ],
+    "positive": [
+      "👋"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.07692307692307693,
+    "calculation": [
+      {
+        "insanity": -2
+      },
+      {
+        "death": -2
+      },
+      {
+        "love": 3
+      }
+    ],
+    "tokens": [
+      "love",
+      "death",
+      "and",
+      "insanity",
+      "by",
+      "mantis",
+      "khiralla",
+      "for",
+      "those",
+      "that",
+      "don't",
+      "get",
+      "…"
+    ],
+    "words": [
+      "insanity",
+      "death",
+      "love"
+    ],
+    "positive": [
+      "love"
+    ],
+    "negative": [
+      "insanity",
+      "death"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.1111111111111111,
+    "calculation": [
+      {
+        "seamless": 2
+      }
+    ],
+    "tokens": [
+      "check",
+      "out",
+      "this",
+      "amazon",
+      "deal",
+      "nebility",
+      "women",
+      "waist",
+      "trainer",
+      "bodysuit",
+      "slim",
+      "full",
+      "body",
+      "shapewear",
+      "seamless",
+      "round",
+      "neck",
+      "jump…"
+    ],
+    "words": [
+      "seamless"
+    ],
+    "positive": [
+      "seamless"
+    ],
+    "negative": []
+  },
+  {
+    "score": 1,
+    "comparative": 0.2,
+    "calculation": [
+      {
+        "accept": 1
+      }
+    ],
+    "tokens": [
+      "day",
+      "22",
+      "asking",
+      "to",
+      "accept"
+    ],
+    "words": [
+      "accept"
+    ],
+    "positive": [
+      "accept"
+    ],
+    "negative": []
+  },
+  {
+    "score": -1,
+    "comparative": -0.05263157894736842,
+    "calculation": [
+      {
+        "like": 2
+      },
+      {
+        "promoting": 1
+      },
+      {
+        "bullshit": -4
+      }
+    ],
+    "tokens": [
+      "its",
+      "a",
+      "standard",
+      "email",
+      "telemarketing",
+      "coreg",
+      "bullshit",
+      "company",
+      "that",
+      "they",
+      "are",
+      "promoting",
+      "stuff",
+      "like",
+      "this",
+      "with",
+      "a",
+      "german",
+      "c…"
+    ],
+    "words": [
+      "like",
+      "promoting",
+      "bullshit"
+    ],
+    "positive": [
+      "like",
+      "promoting"
+    ],
+    "negative": [
+      "bullshit"
+    ]
+  },
+  {
+    "score": -1,
+    "comparative": -0.05,
+    "calculation": [
+      {
+        "loose": -3
+      },
+      {
+        "tops": 2
+      }
+    ],
+    "tokens": [
+      "check",
+      "out",
+      "this",
+      "amazon",
+      "deal",
+      "miholl",
+      "women’s",
+      "long",
+      "sleeve",
+      "tops",
+      "lace",
+      "casual",
+      "loose",
+      "blouses",
+      "t",
+      "shirts",
+      "lake",
+      "blue",
+      "small",
+      "b…"
+    ],
+    "words": [
+      "loose",
+      "tops"
+    ],
+    "positive": [
+      "tops"
+    ],
+    "negative": [
+      "loose"
+    ]
+  },
+  {
+    "score": 3,
+    "comparative": 0.2727272727272727,
+    "calculation": [
+      {
+        "sparkling": 3
+      }
+    ],
+    "tokens": [
+      "twenty39",
+      "qarbo",
+      "sparkling",
+      "water",
+      "maker",
+      "and",
+      "fruit",
+      "infuser",
+      "premium",
+      "carbonation",
+      "via"
+    ],
+    "words": [
+      "sparkling"
+    ],
+    "positive": [
+      "sparkling"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.13636363636363635,
+    "calculation": [
+      {
+        "protect": 1
+      },
+      {
+        "worth": 2
+      }
+    ],
+    "tokens": [
+      "amazon",
+      "is",
+      "the",
+      "biggest",
+      "online",
+      "retailer",
+      "in",
+      "the",
+      "world",
+      "jeff",
+      "bezos",
+      "is",
+      "worth",
+      "179",
+      "2",
+      "billion",
+      "usd",
+      "can",
+      "afford",
+      "to",
+      "protect",
+      "i…"
+    ],
+    "words": [
+      "protect",
+      "worth"
+    ],
+    "positive": [
+      "protect",
+      "worth"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.11764705882352941,
+    "calculation": [
+      {
+        "proud": 2
+      }
+    ],
+    "tokens": [
+      "really",
+      "proud",
+      "of",
+      "the",
+      "book",
+      "gender",
+      "in",
+      "fiction",
+      "on",
+      "which",
+      "i",
+      "collaborated",
+      "get",
+      "the",
+      "book",
+      "now",
+      "at"
+    ],
+    "words": [
+      "proud"
+    ],
+    "positive": [
+      "proud"
+    ],
+    "negative": []
+  },
+  {
+    "score": 2,
+    "comparative": 0.3333333333333333,
+    "calculation": [
+      {
+        "care": 2
+      }
+    ],
+    "tokens": [
+      "health",
+      "care",
+      "products",
+      "via",
+      "16",
+      "205065"
+    ],
+    "words": [
+      "care"
+    ],
+    "positive": [
+      "care"
+    ],
+    "negative": []
+  },
+  {
+    "score": 5,
+    "comparative": 1,
+    "calculation": [
+      {
+        "care": 2
+      },
+      {
+        "beauty": 3
+      }
+    ],
+    "tokens": [
+      "beauty",
+      "and",
+      "personal",
+      "care",
+      "113"
+    ],
+    "words": [
+      "care",
+      "beauty"
+    ],
+    "positive": [
+      "care",
+      "beauty"
+    ],
+    "negative": []
+  },
+  {
+    "score": -2,
+    "comparative": -0.18181818181818182,
+    "calculation": [
+      {
+        "wrong": -2
+      }
+    ],
+    "tokens": [
+      "don't",
+      "get",
+      "me",
+      "wrong",
+      "if",
+      "the",
+      "state",
+      "didn't",
+      "exist",
+      "we'd",
+      "inve…"
+    ],
+    "words": [
+      "wrong"
+    ],
+    "positive": [],
+    "negative": [
+      "wrong"
+    ]
+  },
+  {
+    "score": 2,
+    "comparative": 0.4,
+    "calculation": [
+      {
+        "care": 2
+      }
+    ],
+    "tokens": [
+      "health",
+      "care",
+      "products",
+      "via",
+      "85"
+    ],
+    "words": [
+      "care"
+    ],
+    "positive": [
+      "care"
+    ],
+    "negative": []
+  },
+  {
+    "score": 3,
+    "comparative": 0.13636363636363635,
+    "calculation": [
+      {
+        "sexy": 3
+      }
+    ],
+    "tokens": [
+      "just",
+      "saw",
+      "this",
+      "on",
+      "amazon",
+      "donnalla",
+      "women",
+      "sexy",
+      "lingerie",
+      "set",
+      "two",
+      "piece",
+      "lace",
+      "bra",
+      "and",
+      "panty",
+      "set",
+      "babydoll",
+      "sleepwear",
+      "dark",
+      "green",
+      "…"
+    ],
+    "words": [
+      "sexy"
+    ],
+    "positive": [
+      "sexy"
+    ],
+    "negative": []
+  }
+]
