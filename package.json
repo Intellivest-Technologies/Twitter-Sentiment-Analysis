@@ -1,0 +1,17 @@
+{
+  "name": "sentiment-analysis",
+  "version": "1.0.0",
+  "description": "Twitter Sentiment Analysis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name" : "Josh Stovall",
+    "url" : "http://joshstovall.com"
+  },
+  "dependencies": {
+    "request": "^2.88.2",
+    "sentiment": "^5.0.2"
+  }
+}
