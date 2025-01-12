@@ -2,6 +2,7 @@ const request = require('request')
 var Sentiment = require('sentiment')
 const fs = require('fs')
 var symbols = ['TSLA', 'DIS', 'AVID', 'FB', 'AMZN', 'AAL', 'COIN', 'UBER', 'CCL', 'F']
+
 // twitter handles
 var handles = {
    DIS: 'disney',
@@ -16,7 +17,6 @@ var handles = {
    CCL: 'CarnivalCruise',
    F: 'ford'
 }
-
 
 process.argv.forEach(function (val, index, array) {
    if (val == 'TEST') testMultiple()
@@ -73,6 +73,7 @@ const replaceEmojis = function (string) {
    })
    return string
 }
+
 function callback(error, response, body, symbol) {
    if (!error && response.statusCode == 200) {
       var arr = JSON.parse(body).statuses
@@ -90,8 +91,6 @@ function callback(error, response, body, symbol) {
          if (result.comparative != 0 && !t.includes('undefined')) {
             ratings.push(result.comparative)
             logic.push(result)
-
-
          }
 
          return {
@@ -99,9 +98,9 @@ function callback(error, response, body, symbol) {
             score: result.score,
             content: t,
             engagement: e.favorite_count + e.retweet_count,
-            //location:e.user.location,
-            //user:e.user.screen_name,
-            //influence:e.user.followers_count
+            //location: e.user.location,
+            //user: e.user.screen_name,
+            //influence: e.user.followers_count
          }
 
       })
@@ -128,7 +127,7 @@ function testOne(e) {
    const options = {
       url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=30&result_type=recent&include_entities=1',
       headers: {
-         'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAJBD%2BQAAAAAABouyxmfwLPWWvLr9FwE7JTF0IG4%3DAxdWOjcl5xInwjuMMTAqR8jIFN9XHyPYjALUESpMIYs5SNYF2s'
+         'Authorization': 'Bearer ' + process.env. TWITTER_API_KEY
       }
    }
    function requestWithSymbol(error, response, body) {
@@ -147,12 +146,13 @@ function testMultiple() {
       const options = {
          url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=100&result_type=recent&include_entities=1',
          headers: {
-            'Authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAAJBD%2BQAAAAAABouyxmfwLPWWvLr9FwE7JTF0IG4%3DAxdWOjcl5xInwjuMMTAqR8jIFN9XHyPYjALUESpMIYs5SNYF2s'
+            'Authorization': 'Bearer ' + process.env. TWITTER_API_KEY
          }
       }
       request(options, requestWithSymbol)
    }
 }
+
 // helpers
 
 // format array of objects to CSV
