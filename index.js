@@ -83,7 +83,7 @@ function callback(error, response, body, symbol) {
       tweets = arr.map(function (e) {
 
          //if(e.text.includes('RT @')) return ""
-
+         
          var t = e.text.replace(/\n|\r/g, "").replace(/(?:https?|ftp):\/\/[\n\S]+/g, '').replace(/\@[^\s]*/g, "").replace(/\$[^\s]*/g, "").replace(/\#[^\s]*/g, "").replace('RT', '').replace('NEW', '').replace('//   // ', '').replace('- ', '').trim()
          t = replaceEmojis(t)
          var result = new Sentiment().analyze(t, sentimentOptions)
@@ -98,9 +98,9 @@ function callback(error, response, body, symbol) {
             score: result.score,
             content: t,
             engagement: e.favorite_count + e.retweet_count,
-            //location: e.user.location,
-            //user: e.user.screen_name,
-            //influence: e.user.followers_count
+            // location: e.user.location,
+            // user: e.user.screen_name,
+            // influence: e.user.followers_count
          }
 
       })
@@ -127,7 +127,7 @@ function testOne(e) {
    const options = {
       url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=30&result_type=recent&include_entities=1',
       headers: {
-         'Authorization': 'Bearer ' + process.env. TWITTER_API_KEY
+         'Authorization': 'Bearer ' + process.env.TWITTER_API_KEY
       }
    }
    function requestWithSymbol(error, response, body) {
@@ -146,7 +146,7 @@ function testMultiple() {
       const options = {
          url: 'https://api.twitter.com/1.1/search/tweets.json?q=' + searchString + '&lang=en&count=100&result_type=recent&include_entities=1',
          headers: {
-            'Authorization': 'Bearer ' + process.env. TWITTER_API_KEY
+            'Authorization': 'Bearer ' + process.env.TWITTER_API_KEY
          }
       }
       request(options, requestWithSymbol)
